@@ -4,6 +4,10 @@ cd Documents/mattianna.github.io/
 make serve
 navigate to http://127.0.0.1:4001/stephanie-website/ (or whatever it says on terminnal)
 
+If config file is updated...
+	Stop server: control-C in the terminal window that is running the server
+	Then restart, type: make serve
+
 # Git
 Open a terminal
 cd Documents/mattianna.github.io/
