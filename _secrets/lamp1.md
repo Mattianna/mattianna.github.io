@@ -1,6 +1,7 @@
 ---
 title: "Lamp1"
 exerpt: "This is the first of the lamps."
+sortkey: 102
 header:
   image: /assets/images/lamp1/1.jpg
   teaser: /assets/images/lamp1/1.jpg

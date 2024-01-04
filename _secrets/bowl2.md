@@ -1,6 +1,7 @@
 ---
 title: "Bowl2"
 exerpt: "This is the second of the bowls."
+sortkey: 101
 header:
   image: /assets/images/bowl2/1.jpg
   teaser: /assets/images/bowl2/1.jpg

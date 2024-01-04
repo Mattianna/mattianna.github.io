@@ -3,6 +3,7 @@ title: "Shino Tea Bowl"
 quantity: 12
 dimensions: '4" high, 5" diameter'
 available: true
+sortkey: 20
 header:
   image: /assets/images/Faceted_Shino_Tea_Bowl/1.jpg
   teaser: /assets/images/Faceted_Shino_Tea_Bowl/1.jpg
