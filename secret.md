@@ -13,7 +13,7 @@ feature_row:
     alt: "Ceramics"
     title: "Ceramics"
     excerpt: "I am the ceramacist extraordinaire."
-    url: ceramics
+    url: secrets
   - image_path: /assets/images/kayak.jpg
     alt: "About"
     title: "About me"
@@ -23,7 +23,7 @@ feature_row:
     alt: "Jewelry"
     title: "Jewelry"
     excerpt: "I am the jeweler phenomenal."
-    url: jewelry
+    url: secrets
 ---
 
 {% include feature_row id="intro" type="center" %}

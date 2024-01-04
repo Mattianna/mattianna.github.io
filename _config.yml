@@ -259,18 +259,24 @@ collections:
   jewelry:
     output: true
     permalink: /:collection/:path/
+  secrets:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
       type: ceramics
     values:
       layout: piece
-  # _pages
   - scope:
       path: ""
       type: jewelry
+    values:
+      layout: piece
+  - scope:
+      path: ""
+      type: secrets
     values:
       layout: piece

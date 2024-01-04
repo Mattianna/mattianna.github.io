@@ -3,6 +3,7 @@ title: "Faceted Shino Pitcher"
 quantity: 1
 dimensions: '4" high, 5" diameter'
 available: true
+sortkey: 96
 header:
   image: /assets/images/Faceted_Shino_Pitcher/1.jpg
   teaser: /assets/images/Faceted_Shino_Pitcher/1.jpg

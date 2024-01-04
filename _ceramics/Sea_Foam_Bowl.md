@@ -22,4 +22,4 @@ gallery:
 
 {% include gallery %}
 
-These bowls were created during an Arist in Residence at Alchemy Art Center on San Juan Island.  Made with a dark clay body and fired at midrange, their playful foamy exterior compliments the simple rich brown interior.
+These bowls were created during an Arist in Residence at [Alchemy Art Center](https://alchemyartcenter.com/) on San Juan Island.  Made with a dark clay body and fired at midrange, their playful foamy exterior compliments the simple rich brown interior.
