@@ -3,7 +3,7 @@ title: "White Tea Bowl"
 quantity: 8
 dimensions: '4" high, 5" diameter'
 available: true
-sortkey: 40
+sortkey: 32
 header:
   image: /assets/images/SS_White_Tea_Bowl/1.jpg
   teaser: /assets/images/SS_White_Tea_Bowl/1.jpg

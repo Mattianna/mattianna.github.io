@@ -3,6 +3,7 @@ title: "Tenmoku Serving Bowl"
 quantity: 1
 dimensions: '4" high, 5" diameter'
 available: true
+sortkey: 80
 header:
   image: /assets/images/Large_Carved_Tenmoku_Bowl/1.jpg
   teaser: /assets/images/Large_Carved_Tenmoku_Bowl/1.jpg
