@@ -3,5 +3,21 @@ layout: default
 ---
 
 <div id="main" role="main">
+  {% if page.title %}<h1 class="piece_title">{{page.title}}</h1>{% endif %}
+  <table>
+    <tr>
+      <th>Quantity</th>
+      <td>{{page.quantity}}</td>
+    </tr>
+    <tr>
+      <th>Details</th>
+      <td>{{page.dimensions}}</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Food and microwave safe</td>
+    </tr>
+  </table>
+  
   {{ content }}
 </div>
