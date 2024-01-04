@@ -3,6 +3,7 @@ title: "Sea Foam Mugs"
 quantity: 2
 dimensions: '4" high, 5" diameter'
 available: true
+tags: alchemy
 header:
   image: /assets/images/Alchemy_Blue_Brown_Mugs/Set.jpg
   teaser: /assets/images/Alchemy_Blue_Brown_Mugs/Set.jpg
