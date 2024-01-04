@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/example_splash.jpg
+  overlay_image: /assets/images/rafting.jpg
 excerpt: "Ceramacist Extraordinaire.  Jeweler Phenomenal."
 intro:
   - excerpt: "I can throw pots better than you.  And farther too.  And my glazes rule the world."

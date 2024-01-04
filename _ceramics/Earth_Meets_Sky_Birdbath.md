@@ -2,6 +2,7 @@
 title: "Earth meets Sky Birdbath"
 quantity: 1
 dimensions: '4" high, 5" diameter'
+sortkey: 112
 available: false
 header:
   image: /assets/images/Birdbath/1.jpg
