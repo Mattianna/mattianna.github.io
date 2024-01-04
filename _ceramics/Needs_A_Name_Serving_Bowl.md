@@ -1,5 +1,5 @@
 ---
-title: "Needs a Name Serving Bowl"
+title: "Sequoia Serving Bowl"
 quantity: 1
 dimensions: '4" high, 5" diameter'
 available: true

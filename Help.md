@@ -31,3 +31,4 @@ git pull david master
 		unsuccessful: 2 options 
 			resolve yourself and try and edit the files that conflict, then: git commit -a
 			abort: git merge --abort
+renaming things: git mv OLD FILE PATH NEW FILE PATH
