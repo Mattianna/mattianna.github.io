@@ -5,14 +5,14 @@ dimensions: '4" high, 5" diameter'
 sortkey: 114
 available: true
 header:
-  image: /assets/images/Blue_Kelp_Lamp/1.jpg
-  teaser: /assets/images/Blue_Kelp_Lamp/1.jpg
+  image: /assets/images/Blue_Reef_Lamp/1.jpg
+  teaser: /assets/images/Blue_Reef_Lamp/1.jpg
 gallery:
-  - url: /assets/images/Blue_Kelp_Lamp/1.jpg
-    image_path: /assets/images/Blue_Kelp_Lamp/1.jpg
+  - url: /assets/images/Blue_Reef_Lamp/1.jpg
+    image_path: /assets/images/Blue_Reef_Lamp/1.jpg
     alt: "Left Side"
-  - url: /assets/images/Blue_Kelp_Lamp/2.jpg
-    image_path: /assets/images/Blue_Kelp_Lamp/2.jpg
+  - url: /assets/images/Blue_Reef_Lamp/2.jpg
+    image_path: /assets/images/Blue_Reef_Lamp/2.jpg
     alt: "Right Side"
 
 
