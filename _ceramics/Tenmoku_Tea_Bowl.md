@@ -5,15 +5,18 @@ dimensions: '4" high, 5" diameter'
 available: true
 sortkey: 48
 header:
-  image: /assets/images/Faceted_Tenmoku_Tea_Bowl/1.jpg
-  teaser: /assets/images/Faceted_Tenmoku_Tea_Bowl/1.jpg
+  image: /assets/images/Faceted_Tenmoku_Tea_Bowl/1-1.jpg
+  teaser: /assets/images/Faceted_Tenmoku_Tea_Bowl/1-1.jpg
 gallery:
-  - url: /assets/images/Faceted_Tenmoku_Tea_Bowl/1.jpg
-    image_path: /assets/images/Faceted_Tenmoku_Tea_Bowl/1.jpg
+  - url: /assets/images/Faceted_Tenmoku_Tea_Bowl/1-1.jpg
+    image_path: /assets/images/Faceted_Tenmoku_Tea_Bowl/1-1.jpg
     alt: "Single bowl"
   - url: /assets/images/Faceted_Tenmoku_Tea_Bowl/Set.jpg
     image_path: /assets/images/Faceted_Tenmoku_Tea_Bowl/Set.jpg
     alt: "Set of bowls"
+  - url: /assets/images/Faceted_Tenmoku_Tea_Bowl/Bottom.jpg
+    image_path: /assets/images/Faceted_Tenmoku_Tea_Bowl/Bottom.jpg
+    alt: "Exterior texture"
 ---
 
 {% include gallery %}

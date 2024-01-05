@@ -8,10 +8,15 @@ header:
   image: /assets/images/Alchemy_Blue_Brown_Mugs/Set.jpg
   teaser: /assets/images/Alchemy_Blue_Brown_Mugs/Set.jpg
 gallery:
+  - url: /assets/images/Alchemy_Blue_Brown_Mugs/1.jpg
+    image_path: /assets/images/Alchemy_Blue_Brown_Mugs/1.jpg
+    alt: "Mug 1"
+  - url: /assets/images/Alchemy_Blue_Brown_Mugs/2.jpg
+    image_path: /assets/images/Alchemy_Blue_Brown_Mugs/2.jpg
+    alt: "Mug 1"
   - url: /assets/images/Alchemy_Blue_Brown_Mugs/Set.jpg
     image_path: /assets/images/Alchemy_Blue_Brown_Mugs/Set.jpg
     alt: "Pair of Mugs"
-
 
 
 ---

@@ -11,6 +11,9 @@ gallery:
   - url: /assets/images/Large_Carved_Tenmoku_Bowl/1.jpg
     image_path: /assets/images/Large_Carved_Tenmoku_Bowl/1.jpg
     alt: "Single bowl"
+  - url: /assets/images/Large_Carved_Tenmoku_Bowl/2.jpg
+    image_path: /assets/images/Large_Carved_Tenmoku_Bowl/2.jpg
+    alt: "Side of Bowl"
   - url: /assets/images/Large_Carved_Tenmoku_Bowl/carving.jpg
     image_path: /assets/images/Large_Carved_Tenmoku_Bowl/carving.jpg
     alt: "Carving"

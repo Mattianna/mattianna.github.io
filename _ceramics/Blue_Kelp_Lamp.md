@@ -1,0 +1,23 @@
+---
+title: "Blue Kelp Lamp"
+quantity: 1
+dimensions: '4" high, 5" diameter'
+sortkey: 113
+available: triue
+header:
+  image: /assets/images/Blue_Kelp_Lamp/2.jpg
+  teaser: /assets/images/Blue_Kelp_Lamp/2.jpg
+gallery:
+  - url: /assets/images/Blue_Kelp_Lamp/2.jpg
+    image_path: /assets/images/Blue_Kelp_Lamp/2.jpg
+    alt: "Left Side"
+  - url: /assets/images/Blue_Kelp_Lamp/1.jpg
+    image_path: /assets/images/Blue_Kelp_Lamp/1.jpg
+    alt: "Right Side"
+
+
+---
+
+{% include gallery %}
+
+Created during an Arist in Residence at [Alchemy Art Center](https://alchemyartcenter.com/) on San Juan Island this lamp continues my Rocks and Pots lamp series.  Decorated with carvings, lays of glaze, and stacks of stone-inspire-rocks this pot nods at an underwater world while illuminating any room.
