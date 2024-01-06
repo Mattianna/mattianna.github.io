@@ -10,7 +10,7 @@ gallery:
   - url: /assets/images/Cracked_Cloud_Planter/1.jpg
     image_path: /assets/images/Cracked_Cloud_Planter/1.jpg
     alt: "Planter"
-
+---
 
 {% include gallery %}
 

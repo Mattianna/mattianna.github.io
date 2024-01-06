@@ -23,6 +23,7 @@ git commit -m "notes"
 		to esc type-- :wq 
 			this saves commit message and returns to the terminal
 		press i to enter insert mode which allows you to type, press esc to exit insert mode at which point :wq will work
+    if you use -a it will commit all changed files
 git push
 	pushes updates to github and eventually updates running cite
 git pull david master

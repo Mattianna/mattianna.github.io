@@ -3,7 +3,7 @@ title: "Faceted Tumblers"
 quantity: 13
 dimensions: '4" high, 5" diameter'
 available: true
-sortkey: 
+sortkey: 40
 header:
   image: /assets/images/Faceted_Tumblers/Set.jpg
   teaser: /assets/images/Faceted_Tumblers/Set.jpg

@@ -20,4 +20,4 @@ gallery:
 
 {% include gallery %}
 
-Created during an Arist in Residence at [Alchemy Art Center](https://alchemyartcenter.com/) on San Juan Island this lamp continues my Rocks and Pots lamp series.  Decorated with carvings, lays of glaze, and stacks of stone-inspire-rocks this pot nods at an underwater world while illuminating any room.
+Created during an Artist in Residence at [Alchemy Art Center](https://alchemyartcenter.com/) on San Juan Island this lamp continues my Rocks and Pots lamp series.  Decorated with carvings, layers of glaze, and stacks of stone-inspire-balls this pot nods at an underwater world while illuminating any room.
