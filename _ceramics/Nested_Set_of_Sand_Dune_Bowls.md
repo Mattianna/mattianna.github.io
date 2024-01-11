@@ -1,8 +1,9 @@
 ---
 title: "Nested Set of Sand Dune Bowls"
 quantity: 2
-dimensions: '4" high, 5" diameter'
+dimensions: 'Lg: 5.5" high, 12" diameter, Sm: 5" high, 10" diameter'
 available: true
+sortkey: 190
 header:
   image: /assets/images/Nester_Set_of_Sand_Dune_Bowls/1.jpg
   teaser: /assets/images/Nester_Set_of_Sand_Dune_Bowls/1.jpg

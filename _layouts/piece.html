@@ -13,10 +13,12 @@ layout: default
       <th>Details</th>
       <td>{{page.dimensions}}</td>
     </tr>
+    {% if page.foodsafe %}
     <tr>
       <td></td>
       <td>Food, dishwasher and microwave safe</td>
     </tr>
+    {% endif %}
   </table>
   
   {{ content }}

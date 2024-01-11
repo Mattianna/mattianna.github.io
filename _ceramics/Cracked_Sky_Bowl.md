@@ -1,8 +1,9 @@
 ---
 title: "Cracked Sky Bowl"
 quantity: 8
-dimensions: '4" high, 5" diameter'
+dimensions: '1.75" high, 5.75" diameter'
 available: true
+sortkey: 200
 header:
   image: /assets/images/Alchemy_Brown_White_SS_Bowl/2.jpg
   teaser: /assets/images/Alchemy_Brown_White_SS_Bowl/2.jpg

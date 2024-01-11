@@ -1,7 +1,7 @@
 ---
 title: "Faceted Tumblers"
 quantity: 13
-dimensions: '4" high, 5" diameter'
+dimensions: '2.5-3.2" high, 2.8-3.75" diameter'
 available: true
 sortkey: 40
 header:

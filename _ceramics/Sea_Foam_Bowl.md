@@ -1,8 +1,9 @@
 ---
 title: "Sea Foam Bowl"
 quantity: 5
-dimensions: '4" high, 5" diameter'
+dimensions: '~1.8" high, 6" diameter'
 available: true
+sortkey: 210
 header:
   image: /assets/images/Alchemy_Blue_Brown_Bowl/1.jpg
   teaser: /assets/images/Alchemy_Blue_Brown_Bowl/1.jpg

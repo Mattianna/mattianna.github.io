@@ -1,8 +1,9 @@
 ---
 title: "Sequoia Serving Bowl"
 quantity: 1
-dimensions: '4" high, 5" diameter'
+dimensions: '3" high, 16.25" diameter'
 available: true
+sortkey: 160
 header:
   image: /assets/images/Large_Porcelain_White_Bowl/1-1.jpg
   teaser: /assets/images/Large_Porcelain_White_Bowl/1-1.jpg

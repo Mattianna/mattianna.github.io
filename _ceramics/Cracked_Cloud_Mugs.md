@@ -1,8 +1,9 @@
 ---
 title: "Cracked Cloud Mugs"
 quantity: 4
-dimensions: '4" high, 5" diameter'
+dimensions: '3" high, 4" diameter'
 available: true
+sortkey: 95
 header:
   image: /assets/images/SS_White_Mug/1.jpg
   teaser: /assets/images/SS_White_Mug/1.jpg

@@ -1,8 +1,9 @@
 ---
 title: "Eggshell Mugs"
 quantity: 2
-dimensions: '4" high, 5" diameter'
+dimensions: 'Lg: 4.3" high, 4.3" diameter, Sm: 4" high, 3.7" diameter'
 available: true
+sortkey: 100
 header:
   image: /assets/images/Eggshell_mugs/pair.jpg
   teaser: /assets/images/Eggshell_mugs/pair.jpg

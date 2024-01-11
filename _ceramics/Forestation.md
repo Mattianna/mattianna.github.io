@@ -1,9 +1,9 @@
 ---
 title: "Forest-ation"
 quantity: 1
-dimensions: '4" high, 5" diameter'
+dimensions: '7.5" high, 8" diameter'
 available: true
-sortkey: 
+sortkey: 240
 header:
   image: /assets/images/Forestation/1.jpg
   teaser: /assets/images/Forestation/1.jpg

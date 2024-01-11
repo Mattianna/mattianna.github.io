@@ -1,9 +1,10 @@
 ---
 title: "Soda Fired Cairn Lamp"
 quantity: 1
-dimensions: '4" high, 5" diameter'
-sortkey: 120
-available: triue
+dimensions: '8.5" diameter, 30.5" high (10" harp)'
+sortkey: 60
+available: true
+foodsafe: false
 header:
   image: /assets/images/Soda_Fired_Cairn/1.jpg
   teaser: /assets/images/Soda_Fired_Cairn/1.jpg
@@ -20,7 +21,6 @@ gallery:
   - url: /assets/images/Soda_Fired_Cairn/4.jpg
     image_path: /assets/images/Soda_Fired_Cairn/4.jpg
     alt: "Right Side no shade"
-
 ---
 
 {% include gallery %}

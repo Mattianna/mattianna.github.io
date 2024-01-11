@@ -1,8 +1,8 @@
 ---
 title: "Blue Kelp Lamp"
 quantity: 1
-dimensions: '4" high, 5" diameter'
-sortkey: 113
+dimensions: '9" diameter, 27.5" high (10" harp)'
+sortkey: 130
 available: triue
 header:
   image: /assets/images/Blue_Kelp_Lamp/2.jpg

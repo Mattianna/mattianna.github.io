@@ -1,8 +1,12 @@
 ---
 title: "Set of Eggshell Dishes"
 quantity: "8"
-dimensions: '4" high, 5" diameter'
+dimensions: 'Lg Plates: 10.5" diameter
+Sm Plates: 8.75" diameter
+Bowls: 2.5" high, 7.25" diameter
+Mugs: 4-4.3" high, 4-4.5" diameter'
 available: true
+sortkey: 220
 header:
   image: /assets/images/Set_of_Dishes-eggshell/1-1.jpg
   teaser: /assets/images/Set_of_Dishes-eggshell/1-1.jpg

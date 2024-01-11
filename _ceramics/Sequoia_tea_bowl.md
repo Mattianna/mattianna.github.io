@@ -1,9 +1,9 @@
 ---
 title: "Sequoia Tea Bowl"
 quantity: 8
-dimensions: '4" high, 5" diameter'
+dimensions: '2.7-3.3" high, 4.2-4.6" diameter'
 available: true
-sortkey: 32
+sortkey: 20
 header:
   image: /assets/images/SS_White_Tea_Bowl/1.jpg
   teaser: /assets/images/SS_White_Tea_Bowl/1.jpg

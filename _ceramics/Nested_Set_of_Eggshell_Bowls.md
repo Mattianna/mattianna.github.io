@@ -1,8 +1,9 @@
 ---
 title: "Nested Set of Eggshell Bowls"
 quantity: 3
-dimensions: '4" high, 5" diameter'
+dimensions: 'Lg: 4.5" high, 13.5" diameter, Md: 4" high, 12" diameter, Sm: 3.5" high, 10.25" diameter'
 available: true
+sortkey: 180
 header:
   image: /assets/images/Nested_Bowl_Set-eggshell/1.jpg
   teaser: /assets/images/Nested_Bowl_Set-eggshell/1.jpg

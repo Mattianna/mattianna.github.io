@@ -1,9 +1,9 @@
 ---
 title: "Tenmoku Tea Bowl"
 quantity: 7
-dimensions: '4" high, 5" diameter'
+dimensions: '2.5" high, ~4.5" diameter'
 available: true
-sortkey: 48
+sortkey: 30
 header:
   image: /assets/images/Faceted_Tenmoku_Tea_Bowl/1-1.jpg
   teaser: /assets/images/Faceted_Tenmoku_Tea_Bowl/1-1.jpg
