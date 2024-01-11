@@ -13,6 +13,6 @@ gallery:
 ---
 
 
-{% include gallery" %}
+{% include gallery %}
 
 Made with alternating cylindrical turquoise  pieces and faceted wooden pieces this necklace is simple and elegant. 
