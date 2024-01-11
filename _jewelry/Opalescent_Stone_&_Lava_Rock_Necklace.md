@@ -1,5 +1,5 @@
 ---
-title: "Opalescent Stone &_Lava Rock Necklace"
+title: "Opalescent Stone & Lava Rock Necklace"
 dimensions: 'Neck opening: 28" Drop: 7" Width: 5"'
 available: true
 sortkey: 

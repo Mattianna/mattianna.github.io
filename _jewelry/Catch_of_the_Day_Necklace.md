@@ -1,5 +1,5 @@
 ---
-title: "Catch of the_Day Necklace"
+title: "Catch of the Day Necklace"
 dimensions: 'Neck opening: 17.5" Drop: 2.5" Width: 9"'
 available: true
 sortkey: 
