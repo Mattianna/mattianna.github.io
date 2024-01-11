@@ -1,8 +1,8 @@
 ---
 title: "Blue Reef Lamp"
 quantity: 1
-dimensions: '4" high, 5" diameter'
-sortkey: 114
+dimensions: '8.5" diameter, 26" high (10" harp)'
+sortkey: 120
 available: true
 header:
   image: /assets/images/Blue_Reef_Lamp/1.jpg

@@ -1,9 +1,9 @@
 ---
 title: "Celadon Square Mugs"
 quantity: 4
-dimensions: '4" high, 5" diameter'
+dimensions: 'Lg: 4" high, 4" diameter, Sm: 3.5" high, 3.5" diameter'
 available: true
-tags: 
+sortkey: 90
 header:
   image: /assets/images/Celadon_Square_Mugs/set4.jpg
   teaser: /assets/images/Celadon_Square_Mugs/set4.jpg
