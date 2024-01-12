@@ -18,7 +18,7 @@ gallery:
 
 {% include gallery %}
 
-Made with recycled golden chains, cream beads bought in Ghana, and irregular malachite beads this multi-strand necklace is bright yet earthy. 
+Made with recycled golden chains, creamy african beads, and irregular malachite beads this multi-strand necklace is bright yet earthy. 
 
 
 
