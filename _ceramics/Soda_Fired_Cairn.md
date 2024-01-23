@@ -12,15 +12,10 @@ gallery:
   - url: /assets/images/Soda_Fired_Cairn/1.jpg
     image_path: /assets/images/Soda_Fired_Cairn/1.jpg
     alt: "Left Side"
-  - url: /assets/images/Soda_Fired_Cairn/2.jpg
-    image_path: /assets/images/Soda_Fired_Cairn/2.jpg
-    alt: "Left Side no shade"
   - url: /assets/images/Soda_Fired_Cairn/3.jpg
     image_path: /assets/images/Soda_Fired_Cairn/3.jpg
     alt: "Right Side"
-  - url: /assets/images/Soda_Fired_Cairn/4.jpg
-    image_path: /assets/images/Soda_Fired_Cairn/4.jpg
-    alt: "Right Side no shade"
+
 ---
 
 {% include gallery %}
