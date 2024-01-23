@@ -1,9 +1,12 @@
 ---
 layout: single
+sidebar:
+  - image: /assets/images/Me/1.jpg
+    title: Stephanie Mattianna Roe
 ---
-gallery:
-  - url: /assets/images/Opalescent_Stone_&_Lava_Rock_Necklace/1.jpg
-    image_path: /assets/images/Opalescent_Stone_&_Lava_Rock_Necklace/1.jpg
+
+&nbsp;
+
 I am a ceramic and beading artist from the Pacific Northwest and am drawn to the intersection of function and artistic expression.  Introduced to both wheel throwing and beading at a young age by my grandmother, I have been learning and refining my work for the past two decades.  
 
 

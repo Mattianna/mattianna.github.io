@@ -1,6 +1,6 @@
 ---
 title: "Faceted Wooden Studs"
-dimensions: 'Length: 2" Weight: 4g'
+dimensions: 'Length: 2" <br/> Weight: 4g'
 available: true
 sortkey: 
 header:

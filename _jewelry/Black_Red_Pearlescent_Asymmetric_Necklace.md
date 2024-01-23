@@ -1,7 +1,8 @@
 ---
 title: "Black, Red, and Pearlescent Asymmetric Necklace"
-dimensions: 'Neck opening: 17" Drop: 8" Width: 9"'
+dimensions: 'Neck opening: 17" <br/>Drop: 8" <br/>Width: 9"'
 available: true
+necklace: true
 sortkey: 
 header:
   image: /assets/images/Black_Red_Pearlescent_Asymmetric_Necklace/1.jpg

@@ -10,7 +10,7 @@ gallery:
   - url: /assets/images/Brown_Seaglass_Jumble_Bracelet/1.jpg
     image_path: /assets/images/Brown_Seaglass_Jumble_Bracelet/1.jpg
     alt: "First picture of bracelet"
- 
+---
 
 
 {% include gallery %}
