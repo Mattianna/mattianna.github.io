@@ -2,6 +2,7 @@
 title: "Nacre Studs"
 dimensions: 'Length: 2" <br/>Weight: 3.5g'
 available: true
+earring: true
 sortkey: 
 header:
   image: /assets/images/Nacre_Stud_Earrings/1.jpg

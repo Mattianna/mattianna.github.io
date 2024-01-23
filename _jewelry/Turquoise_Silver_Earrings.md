@@ -2,6 +2,7 @@
 title: "Turquoise Silver Earrings"
 dimensions: 'Length: 2" <br/>Weight: 10g'
 available: true
+earring: true
 sortkey: 
 header:
   image: /assets/images/Turquoise_Silver_Earrings/1.jpg

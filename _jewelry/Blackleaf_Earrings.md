@@ -2,6 +2,7 @@
 title: "Blackleaf Earrings"
 dimensions: 'Length: 2" <br/>Weight: 9.5g'
 available: true
+earring: true
 sortkey: 
 header:
   image: /assets/images/Blackleaf_Earrings/1.jpg

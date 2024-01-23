@@ -2,6 +2,7 @@
 title: "Smokey Marble Earrings"
 dimensions: 'Length: 1.5" <br/>Weight: 4g'
 available: true
+earring: true
 sortkey: 
 header:
   image: /assets/images/Smoky_Marble_Earrings/1.jpg
