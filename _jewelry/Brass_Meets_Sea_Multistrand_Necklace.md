@@ -1,7 +1,8 @@
 ---
 title: "Brass Meets Sea Multi-strand Necklace"
-dimensions: 'Neck opening: 20.5" Drop: 6.5" Width: 6"'
+dimensions: 'Neck opening: 20.5" <br/>Drop: 6.5" <br/>Width: 6"'
 available: true
+necklace: true
 sortkey: 
 header:
   image: /assets/images/Brass_Meets_Sea_Multistrand_Necklace/1.jpg

@@ -1,7 +1,8 @@
 ---
 title: "Black & Copper Multi-strand Necklace"
-dimensions: 'Neck opening: 27.5" Drop: 8" Width: 6.5"'
+dimensions: 'Neck opening: 27.5" <br/> Drop: 8" <br/> Width: 6.5"'
 available: true
+necklace: true
 sortkey: 
 header:
   image: /assets/images/Black_Copper_Multistrand_Necklace/1.jpg

@@ -1,7 +1,7 @@
 ---
 title: "Sequoia Tea Bowl"
 quantity: 8
-dimensions: '2.7-3.3" high, 4.2-4.6" diameter'
+dimensions: '2.7-3.3" high <br/>4.2-4.6" diameter'
 available: true
 sortkey: 20
 header:

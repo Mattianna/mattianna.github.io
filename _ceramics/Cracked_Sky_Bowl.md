@@ -1,7 +1,7 @@
 ---
 title: "Cracked Sky Bowl"
 quantity: 8
-dimensions: '1.75" high, 5.75" diameter'
+dimensions: '1.75" high <br/>5.75" diameter'
 available: true
 sortkey: 200
 header:

@@ -16,4 +16,4 @@ gallery:
 
 {% include gallery %}
 
-Made with african black and white rondelles, deep red seed beads and silver accents this dual strand geometric braclet is alluring.
+Made with African black and white rondelles, deep red seed beads and silver accents this dual strand geometric braclet is alluring.

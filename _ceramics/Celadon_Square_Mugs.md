@@ -1,7 +1,7 @@
 ---
 title: "Celadon Square Mugs"
 quantity: 4
-dimensions: 'Lg: 4" high, 4" diameter, Sm: 3.5" high, 3.5" diameter'
+dimensions: 'Lg: 4" high, 4" diameter, <br/>Sm: 3.5" high, 3.5" diameter'
 available: true
 sortkey: 90
 header:

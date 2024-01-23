@@ -1,7 +1,7 @@
 ---
 title: "Earth meets Sky Birdbath"
 quantity: 1
-dimensions: '30" high, 22" diameter'
+dimensions: '30" high <br/>22" diameter'
 sortkey: 140
 available: false
 foodsafe: false

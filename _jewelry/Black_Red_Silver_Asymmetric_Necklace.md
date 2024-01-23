@@ -1,7 +1,8 @@
 ---
 title: "Black Red Silver Asymmetric Necklace"
-dimensions: 'Neck opening: 22.5" Drop: 7" Width: 7.5"'
+dimensions: 'Neck opening: 22.5" <br/>Drop: 7" <br/>Width: 7.5"'
 available: true
+necklace: true
 sortkey: 
 header:
   image: /assets/images/Black_Red_Silver_Asymmetric_Necklace/1.jpg

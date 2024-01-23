@@ -1,7 +1,7 @@
 ---
 title: "David Cairn Lamp"
 quantity: 1
-dimensions: '4" high, 5" diameter'
+dimensions: '4" high <br/>5" diameter'
 available: false
 sortkey: 80
 foodsafe: false

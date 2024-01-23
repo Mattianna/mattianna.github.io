@@ -1,7 +1,8 @@
 ---
 title: "Sparkling Bumblebee Pendant Necklace"
-dimensions: 'Neck opening: 17" Drop: 2.5" Width: 9.5"'
+dimensions: 'Neck opening: 17" <br/>Drop: 2.5" <br/>Width: 9.5"'
 available: true
+necklace: true
 sortkey: 
 header:
   image: /assets/images/Sparkling_Bumblebee_Pendant_Necklace/1.jpg

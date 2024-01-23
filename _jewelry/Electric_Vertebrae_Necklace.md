@@ -1,7 +1,8 @@
 ---
 title: "Electric Vertebrae Necklace"
-dimensions: 'Neck opening: 23" Drop: 5" Width: 4.75"'
+dimensions: 'Neck opening: 23" <br/>Drop: 5" <br/>Width: 4.75"'
 available: true
+necklace: true
 sortkey: 
 header:
   image: /assets/images/Electric_Vertebrae_Necklace/1.jpg

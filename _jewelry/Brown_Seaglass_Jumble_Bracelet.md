@@ -16,4 +16,4 @@ gallery:
 {% include gallery %}
 
 
-Five jumbled strands makeup this bracelet that showcase white african sea glass, brown striped flattened glass beads, and brass accents.
+Five jumbled strands makeup this bracelet that showcase white African sea glass, brown striped flattened glass beads, and brass accents.

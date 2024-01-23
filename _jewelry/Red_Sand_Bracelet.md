@@ -17,4 +17,4 @@ gallery:
 {% include gallery %}
 
 
-Recylced maroon red cylindrical beads stand out against speckled tan indian beads and brass accents in this rich dual strand bracelet.
+Recylced maroon red cylindrical beads stand out against speckled tan Indian beads and brass accents in this rich dual strand bracelet.

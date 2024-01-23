@@ -16,4 +16,4 @@ gallery:
 
 {% include gallery %}
 
-Made with recycled sparkling yellow beads and african black and white rondelles and finished with a magnetic clasp, this dual strand bracelet is vibrant and fun.
+Made with recycled sparkling yellow beads and African black and white rondelles and finished with a magnetic clasp, this dual strand bracelet is vibrant and fun.

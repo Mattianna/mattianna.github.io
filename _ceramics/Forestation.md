@@ -1,7 +1,7 @@
 ---
 title: "Forest-ation"
 quantity: 1
-dimensions: '7.5" high, 8" diameter'
+dimensions: '7.5" high <br/>8" diameter'
 available: true
 sortkey: 240
 header:

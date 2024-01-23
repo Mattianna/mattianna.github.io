@@ -1,7 +1,7 @@
 ---
 title: "Sea Foam Bowl"
 quantity: 5
-dimensions: '~1.8" high, 6" diameter'
+dimensions: '~1.8" high <br/>6" diameter'
 available: true
 sortkey: 210
 header:

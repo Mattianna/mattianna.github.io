@@ -1,6 +1,6 @@
 ---
 title: "Smokey Marble Earrings"
-dimensions: 'Length: 1.5" Weight: 4g'
+dimensions: 'Length: 1.5" <br/>Weight: 4g'
 available: true
 sortkey: 
 header:
@@ -16,4 +16,4 @@ gallery:
 
 {% include gallery %}
 
-Showcasing a smokey glass chinese bead bookended by brass, these tasteful earrings are great for everyday.
+Showcasing a smokey glass Chinese bead bookended by brass, these tasteful earrings are great for everyday.

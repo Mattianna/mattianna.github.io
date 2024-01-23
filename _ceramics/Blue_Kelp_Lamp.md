@@ -1,7 +1,7 @@
 ---
 title: "Blue Kelp Lamp"
 quantity: 1
-dimensions: '9" diameter, 27.5" high (10" harp)'
+dimensions: '9" diameter <br/>27.5" high (10" harp)'
 sortkey: 130
 available: triue
 header:

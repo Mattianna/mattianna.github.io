@@ -1,7 +1,8 @@
 ---
 title: "Sinuous Zebra Pendant Necklace"
-dimensions: 'Neck opening: 26" Drop: 7.5" Width: 6.5"'
+dimensions: 'Neck opening: 26" <br/>Drop: 7.5" <br/>Width: 6.5"'
 available: true
+necklace: true
 sortkey: 
 header:
   image: /assets/images/Sinuous_Zebra_Pendant_Necklace/1.jpg

@@ -1,6 +1,6 @@
 ---
 title: "Turquoise Silver Earrings"
-dimensions: 'Length: 2" Weight: 10g'
+dimensions: 'Length: 2" <br/>Weight: 10g'
 available: true
 sortkey: 
 header:

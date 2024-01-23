@@ -1,7 +1,7 @@
 ---
 title: "Sea Foam Mugs"
 quantity: 2
-dimensions: '3.7" high, 4.25" diameter'
+dimensions: '3.7" high <br/>4.25" diameter'
 available: true
 tags: alchemy
 sortkey: 110

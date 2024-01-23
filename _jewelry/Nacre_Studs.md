@@ -1,6 +1,6 @@
 ---
 title: "Nacre Studs"
-dimensions: 'Length: 2" Weight: 3.5g'
+dimensions: 'Length: 2" <br/>Weight: 3.5g'
 available: true
 sortkey: 
 header:

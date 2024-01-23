@@ -16,4 +16,4 @@ gallery:
 
 {% include gallery %}
 
-Made with creamy african beads and deep aqua beads this dual strand bracelet is bright yet earthy. 
+Made with creamy African beads and deep aqua beads this dual strand bracelet is bright yet earthy. 

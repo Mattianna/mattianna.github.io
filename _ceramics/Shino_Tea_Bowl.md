@@ -1,7 +1,7 @@
 ---
 title: "Shino Tea Bowl"
 quantity: 12
-dimensions: '~2.5" high, 4.4-5.2" diameter'
+dimensions: '~2.5" high <br/>4.4-5.2" diameter'
 available: true
 sortkey: 10
 header:

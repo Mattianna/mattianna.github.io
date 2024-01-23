@@ -1,7 +1,8 @@
 ---
 title: "Black & Silver Multi-strand Necklace"
-dimensions: 'Neck opening: 24" Drop: 5" Width: 6"'
+dimensions: 'Neck opening: 24" <br/>Drop: 5" <br/>Width: 6"'
 available: true
+necklace: true
 sortkey: 
 header:
   image: /assets/images/Black_Silver_Multistrand_Necklace/1.jpg
@@ -19,4 +20,4 @@ gallery:
 {% include gallery %}
 
 
-Made with silver pieces and african black and white beads mixed with black seed beads framed by recycled black and white geometric ceramic pieces this simple necklace cool and sophisticated.
+Made with silver pieces and African black and white beads mixed with black seed beads framed by recycled black and white geometric ceramic pieces this simple necklace cool and sophisticated.

@@ -1,7 +1,8 @@
 ---
 title: "Harvest Silver Strand"
-dimensions: 'Neck opening: 33" Drop: 9.5" Width: 5"'
+dimensions: 'Neck opening: 33" <br/>Drop: 9.5" <br/>Width: 5"'
 available: true
+necklace: true
 sortkey: 
 header:
   image: /assets/images/Harvest_Silver_Strand/1.jpg
@@ -22,4 +23,4 @@ gallery:
 {% include gallery %}
 
 
-This beautiful strand, worn either as a necklace or a wrapped braclet, is an autumnal composition of chinese glass beads, indian metalic beads, recycled white discs, against a background of golden and iridescent seed beads.
+This beautiful strand, worn either as a necklace or a wrapped braclet, is an autumnal composition of Chinese glass beads, Indian metalic beads, recycled white discs, against a background of golden and iridescent seed beads.

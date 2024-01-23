@@ -1,7 +1,8 @@
 ---
 title: "Turquoise Faceted Wood Necklace"
-dimensions: 'Neck opening: 32" Drop: 10.5" Width: 6.5"'
+dimensions: 'Neck opening: 32" <br/>Drop: 10.5" <br/>Width: 6.5"'
 available: true
+necklace: true
 sortkey: 
 header:
   image: /assets/images/Turquoise_Faceted_Wood_Necklace/1.jpg

@@ -1,6 +1,6 @@
 ---
 title: "Ruff Rock Earrings"
-dimensions: 'Length: 1.7" Weight: 4g'
+dimensions: 'Length: 1.7" <br/>Weight: 4g'
 available: true
 sortkey: 
 header:

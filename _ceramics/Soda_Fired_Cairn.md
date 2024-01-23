@@ -1,7 +1,7 @@
 ---
 title: "Soda Fired Cairn Lamp"
 quantity: 1
-dimensions: '8.5" diameter, 30.5" high (10" harp)'
+dimensions: '8.5" diameter <br/>30.5" high (10" harp)'
 sortkey: 60
 available: true
 foodsafe: false

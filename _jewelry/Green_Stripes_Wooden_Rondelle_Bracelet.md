@@ -16,4 +16,4 @@ gallery:
 
 {% include gallery %}
 
-Made with rich african green striped beads and wooden rondelles this bracelet is bold and warm. 
+Made with rich African green striped beads and wooden rondelles this bracelet is bold and warm. 

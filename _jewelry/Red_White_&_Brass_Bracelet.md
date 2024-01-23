@@ -17,4 +17,4 @@ gallery:
 {% include gallery %}
 
 
-Large african brass filigree wheels contrast with dotted white african ceramic beads in this elegant asian inspired dual strand bracelet.
+Large African brass filigree wheels contrast with dotted white African ceramic beads in this elegant asian inspired dual strand bracelet.

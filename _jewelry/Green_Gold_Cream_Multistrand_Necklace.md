@@ -1,7 +1,8 @@
 ---
 title: "Green Gold & Cream Multi-strand Necklace"
-dimensions: 'Neck opening: 18.5-20.75" Drop: 4.5" Width: 5.5"'
+dimensions: 'Neck opening: 18.5-20.75" <br/>Drop: 4.5" <br/>Width: 5.5"'
 available: true
+necklace: true
 sortkey: 
 header:
   image: /assets/images/Green_Gold_Cream_Multistrand_Necklace/1.jpg
@@ -18,8 +19,7 @@ gallery:
 
 {% include gallery %}
 
-Made with recycled golden chains, creamy african beads, and irregular malachite beads this multi-strand necklace is bright yet earthy. 
+Made with recycled golden chains, creamy African beads, and irregular malachite beads this multi-strand necklace is bright yet earthy. 
 
 
 
-The drop measurement on this necklace were taken at its shortest setting

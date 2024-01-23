@@ -1,6 +1,6 @@
 ---
 title: "Spindler Earrings"
-dimensions: 'Length: 2.5" Weight: 3g'
+dimensions: 'Length: 2.5" <br/>Weight: 3g'
 available: true
 sortkey: 
 header:
@@ -16,4 +16,4 @@ gallery:
 
 {% include gallery %}
 
-This black dotted dangling earing features an african cylindrical bead finished with a metalic flourish.
+This black dotted dangling earing features an African cylindrical bead finished with a metalic flourish.

@@ -1,7 +1,7 @@
 ---
 title: "Cracked Cloud Mugs"
 quantity: 4
-dimensions: '3" high, 4" diameter'
+dimensions: '3" high <br/>4" diameter'
 available: true
 sortkey: 95
 header:

@@ -1,7 +1,8 @@
 ---
 title: "Green Rondelle & Translucent Bar Multistrand Necklace"
-dimensions: 'Neck opening: 16-18.25" Drop: 3" Width: 6"'
+dimensions: 'Neck opening: 16-18.25" <br/>Drop: 3" <br/>Width: 6"'
 available: true
+necklace: true
 sortkey: 
 header:
   image: /assets/images/Green_Rondelle_Translucent_Bar_Multistrand_Necklace/1.jpg
@@ -22,4 +23,3 @@ Made with recycled golden chains, translucent rods, and malachite azurite rondel
 
 
 
-The drop measurement on this necklace were taken at its shortest setting

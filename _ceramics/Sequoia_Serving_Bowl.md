@@ -1,7 +1,7 @@
 ---
 title: "Sequoia Serving Bowl"
 quantity: 1
-dimensions: '3" high, 16.25" diameter'
+dimensions: '3" high <br/>16.25" diameter'
 available: true
 sortkey: 160
 header:

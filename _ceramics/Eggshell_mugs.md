@@ -1,7 +1,7 @@
 ---
 title: "Eggshell Mugs"
 quantity: 2
-dimensions: 'Lg: 4.3" high, 4.3" diameter, Sm: 4" high, 3.7" diameter'
+dimensions: 'Lg: 4.3" high, 4.3" diameter, <br/>Sm: 4" high, 3.7" diameter'
 available: true
 sortkey: 100
 header:

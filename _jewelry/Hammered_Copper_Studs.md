@@ -1,6 +1,6 @@
 ---
 title: "Hammered Copper Studs"
-dimensions: 'Length: 3" Weight: 3g'
+dimensions: 'Length: 3" <br/>Weight: 3g'
 available: true
 sortkey: 
 header:

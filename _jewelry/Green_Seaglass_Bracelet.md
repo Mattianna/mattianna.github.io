@@ -16,4 +16,4 @@ gallery:
 
 {% include gallery %}
 
-Made with green african seaglass rondelles, recylced silver orbs, and matte black seed beads this dual strand bracelet is striking.
+Made with green African seaglass rondelles, recylced silver orbs, and matte black seed beads this dual strand bracelet is striking.

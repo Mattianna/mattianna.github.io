@@ -1,7 +1,8 @@
 ---
 title: "Seaglass Copper Asymmetric Necklace"
-dimensions: 'Neck opening: 23.5" Drop: 7" Width: 7"'
+dimensions: 'Neck opening: 23.5" <br/>Drop: 7" <br/>Width: 7"'
 available: true
+necklace: true
 sortkey: 
 header:
   image: /assets/images/Seaglass_Copper_Asymmetric_Necklace/1.jpg
@@ -19,4 +20,4 @@ gallery:
 {% include gallery %}
 
 
-Made with three large white african sea glass bobbles balanced by smaller green african sea glass rondelles interspersed with chinese copper beads and black seed beads this asymmetical necklace is striking.
+Made with three large white African sea glass bobbles balanced by smaller green African sea glass rondelles interspersed with Chinese copper beads and black seed beads this asymmetical necklace is striking.

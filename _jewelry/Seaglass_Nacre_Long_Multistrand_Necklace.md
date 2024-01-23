@@ -1,7 +1,8 @@
 ---
 title: "Seaglass Nacre Long Multi-strand Necklace"
-dimensions: 'Neck opening: 28" Drop: 12.5" Width: 5.5"'
+dimensions: 'Neck opening: 28" <br/>Drop: 12.5" <br/>Width: 5.5"'
 available: true
+necklace: true
 sortkey: 
 header:
   image: /assets/images/Seaglass_Nacre_Long_Multistrand_Necklace/1.jpg
@@ -22,4 +23,4 @@ gallery:
 {% include gallery %}
 
 
-Sparkly and elegant, this long multistrand necklace is made of pale green african sea glass, mother of pearl squares, silver accents, and teal seed beads.
+Sparkly and elegant, this long multistrand necklace is made of pale green African sea glass, mother of pearl squares, silver accents, and teal seed beads.

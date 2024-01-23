@@ -1,7 +1,7 @@
 ---
 title: "Tenmoku Serving Bowl"
 quantity: 1
-dimensions: '3.75" high, 14.25" diameter'
+dimensions: '3.75" high <br/>14.25" diameter'
 available: true
 sortkey: 170
 header:

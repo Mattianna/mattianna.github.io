@@ -1,7 +1,7 @@
 ---
 title: "Cracked Cloud Planter"
 quantity: 1
-dimensions: '4" high, 5.3" diameter'
+dimensions: '4" high <br/>5.3" diameter'
 available: true
 sortkey: 230
 header:
