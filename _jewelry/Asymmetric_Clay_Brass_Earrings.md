@@ -1,6 +1,6 @@
 ---
 title: "Asymmetric Clay & Brass Earring"
-dimensions: 'Length: 2.6" <br/>Weight: 5.5g'
+dimensions: 'Length: 2" <br/>Weight: 12g'
 available: true
 earring: true
 sortkey: 
