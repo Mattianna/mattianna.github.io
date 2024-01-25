@@ -11,7 +11,7 @@ gallery:
   - url: /assets/images/Cracked_Cloud_Planter/1.jpg
     image_path: /assets/images/Cracked_Cloud_Planter/1.jpg
     alt: "Planter"
-      - url: /assets/images/Cracked_Cloud_Planter/2.jpg
+  - url: /assets/images/Cracked_Cloud_Planter/2.jpg
     image_path: /assets/images/Cracked_Cloud_Planter/2.jpg
     alt: "Planter Bottom"
 ---
