@@ -4,13 +4,15 @@ dimensions: 'Length: 8"'
 available: true
 sortkey: 
 header:
-  image: /assets/images/Seaglass_&_Amber_Bracelet/1.jpg
-  teaser: /assets/images/Seaglass_&_Amber_Bracelet/1.jpg
+  image: /assets/images/Seaglass_Amber_Bracelet/1.jpg
+  teaser: /assets/images/Seaglass_Amber_Bracelet/1.jpg
 gallery:
-  - url: /assets/images/Seaglass_&_Amber_Bracelet/1.jpg
-    image_path: /assets/images/Seaglass_&_Amber_Bracelet/1.jpg
+  - url: /assets/images/Seaglass_Amber_Bracelet/1.jpg
+    image_path: /assets/images/Seaglass_Amber_Bracelet/1.jpg
     alt: "First picture of Bracelet"
-
+  - url: /assets/images/Seaglass_Amber_Bracelet/2.jpg
+    image_path: /assets/images/Seaglass_Amber_Bracelet/2.jpg
+    alt: "Second picture of Bracelet"
 ---
 
 

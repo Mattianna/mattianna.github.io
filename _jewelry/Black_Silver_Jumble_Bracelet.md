@@ -10,7 +10,9 @@ gallery:
   - url: /assets/images/Black_Silver_Jumble_Bracelet/1.jpg
     image_path: /assets/images/Black_Silver_Jumble_Bracelet/1.jpg
     alt: "First picture of Bracelet"
-
+  - url: /assets/images/Black_Silver_Jumble_Bracelet/2.jpg
+    image_path: /assets/images/Black_Silver_Jumble_Bracelet/2.jpg
+    alt: "Second picture of Bracelet"
 ---
 
 

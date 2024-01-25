@@ -10,7 +10,9 @@ gallery:
   - url: /assets/images/Sparkling_Bumblee_Bracelet/1.jpg
     image_path: /assets/images/Sparkling_Bumblee_Bracelet/1.jpg
     alt: "First picture of Bracelet"
-
+  - url: /assets/images/Sparkling_Bumblee_Bracelet/2.jpg
+    image_path: /assets/images/Sparkling_Bumblee_Bracelet/2.jpg
+    alt: "Second picture of Bracelet"
 ---
 
 

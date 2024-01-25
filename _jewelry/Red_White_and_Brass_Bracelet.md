@@ -10,7 +10,9 @@ gallery:
   - url: /assets/images/Red_White_&_Brass_Bracelet/1.jpg
     image_path: /assets/images/Red_White_&_Brass_Bracelet/1.jpg
     alt: "First picture of Bracelet"
-
+  - url: /assets/images/Red_White_&_Brass_Bracelet/2.jpg
+    image_path: /assets/images/Red_White_&_Brass_Bracelet/2.jpg
+    alt: "Second picture of Bracelet"
 ---
 
 

@@ -10,10 +10,13 @@ header:
 gallery:
   - url: /assets/images/Eggshell_mugs/pair.jpg
     image_path: /assets/images/Eggshell_mugs/pair.jpg
-    alt: "Single bowl"
+    alt: "Pair of Mugs"
   - url: /assets/images/Eggshell_mugs/sm.jpg
     image_path: /assets/images/Eggshell_mugs/sm.jpg
-    alt: "Set of bowls"
+    alt: "Small Mug"
+  - url: /assets/images/Eggshell_mugs/lg.jpg
+    image_path: /assets/images/Eggshell_mugs/lg.jpg
+    alt: "Large Mug"
 ---
 
 {% include gallery %}

@@ -10,7 +10,9 @@ gallery:
   - url: /assets/images/Green_Seaglass_Bracelet/1.jpg
     image_path: /assets/images/Green_Seaglass_Bracelet/1.jpg
     alt: "First picture of Bracelet"
-
+  - url: /assets/images/Green_Seaglass_Bracelet/2.jpg
+    image_path: /assets/images/Green_Seaglass_Bracelet/2.jpg
+    alt: "Second picture of Bracelet"
 ---
 
 
