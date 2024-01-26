@@ -4,6 +4,7 @@ layout: none
 
 var store = [
   {%- for c in site.collections -%}
+  {%- if c.label != "secrets" -%}
     {%- if forloop.last -%}
       {%- assign l = true -%}
     {%- endif -%}
@@ -45,7 +46,7 @@ var store = [
         "url": {{ doc.url | relative_url | jsonify }},
         "teaser": {{ teaser | relative_url | jsonify }}
       }{%- unless forloop.last and l -%},{%- endunless -%}
-    {%- endfor -%}
+  {%- endfor -%}{%- endif -%}
   {%- endfor -%}{%- if site.lunr.search_within_pages -%},
   {%- assign pages = site.pages | where_exp:'doc','doc.search != false' -%}
   {%- for doc in pages -%}
