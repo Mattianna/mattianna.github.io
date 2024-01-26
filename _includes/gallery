@@ -7,11 +7,7 @@
 {% if include.layout %}
   {% assign gallery_layout = include.layout %}
 {% else %}
-  {% if gallery.size == 2 %}
-    {% assign gallery_layout = 'half' %}
-  {% else %}
-    {% assign gallery_layout = 'third' %}
-  {% endif %}
+  {% assign gallery_layout = 'third' %}
 {% endif %}
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
