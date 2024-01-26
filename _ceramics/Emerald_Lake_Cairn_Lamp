@@ -1,7 +1,7 @@
 ---
 title: "Emerald Lake Cairn Lamp"
 quantity: 1
-dimensions: '4" high <br/>5" diameter'
+dimensions: '8" diameter <br/>31.75" high (10" harp)'
 available: false
 sortkey: 80
 foodsafe: false
@@ -18,6 +18,7 @@ gallery:
   - url: /assets/images/Emerald_Lake_Cairn_Lamp/4.jpg
     image_path: /assets/images/Emerald_Lake_Cairn_Lamp/4.jpg
     alt: "Lamp"
+
 ---
 
 {% include gallery %}

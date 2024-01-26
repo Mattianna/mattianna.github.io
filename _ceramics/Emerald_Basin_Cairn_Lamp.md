@@ -1,7 +1,7 @@
 ---
 title: "Emerald Basin Cairn Lamp"
 quantity: 1
-dimensions: '4" high <br/>5" diameter'
+dimensions: '8" diameter <br/>30.25" high (10" harp)'
 available: false
 sortkey: 70
 foodsafe: false
