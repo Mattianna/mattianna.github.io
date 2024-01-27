@@ -20,6 +20,17 @@ $footer-background-color: #fffbf2;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+@font-face {
+  font-family: 'Maytra';
+  src: url('../fonts/Maytra.ttf');
+}
+
+div.initial-content #page-title {
+  font-family: 'Maytra', 'Georgia', serif;
+  font-size: 72pt;
+  margin-bottom: -16px;
+}
+
 h1.piece_title {
   text-align: center;
 }
