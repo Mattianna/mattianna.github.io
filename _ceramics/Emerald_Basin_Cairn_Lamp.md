@@ -19,4 +19,4 @@ gallery:
 
 {% include gallery %}
 
-A commissioned piece, this lamp is one of a pair- along with [Emerald Lake](../Emerald_Lake_Cairn_Lamp/)- of bed-side table lamps.  The beginning of my cairn series and made up of seven individually glazed jewel-toned spheres, this lamp is insipired by hiking cairns the direction that they, and light, can provide for those who wander.
+A commissioned piece, this lamp is one of a pair- along with [Emerald Lake](../Emerald_Lake_Cairn_Lamp/)- of bed-side table lamps.  The beginning of my cairn series and made up of eight individually glazed jewel-toned spheres, this lamp is insipired by hiking cairns the direction that they, and light, can provide for those who wander.
