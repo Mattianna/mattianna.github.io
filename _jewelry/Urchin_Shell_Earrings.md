@@ -3,7 +3,7 @@ title: "Urchin Shell Earrings"
 dimensions: 'Length: 3" <br/>Weight: 1.5g'
 available: true
 earring: true
-sortkey: 
+sortkey: 160
 header:
   image: /assets/images/Urchin_Shell_Earrings/1.jpg
   teaser: /assets/images/Urchin_Shell_Earrings/1.jpg

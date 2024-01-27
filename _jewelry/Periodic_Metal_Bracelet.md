@@ -2,7 +2,7 @@
 title: "Periodic Metal Bracelet"
 dimensions: 'Length: 8"'
 available: true
-sortkey: 
+sortkey: 380
 header:
   image: /assets/images/Periodic_Metal_Bracelet/1.jpg
   teaser: /assets/images/Periodic_Metal_Bracelet/1.jpg

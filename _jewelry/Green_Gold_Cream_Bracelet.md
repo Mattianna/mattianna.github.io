@@ -2,7 +2,7 @@
 title: "Green Gold & Cream Bracelet"
 dimensions: 'Length: 7.5"'
 available: true
-sortkey: 
+sortkey: 270
 header:
   image: /assets/images/Green_Gold_Cream_Bracelet/1.jpg
   teaser: /assets/images/Green_Gold_Cream_Bracelet/1.jpg

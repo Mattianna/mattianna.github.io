@@ -3,7 +3,7 @@ title: "Opalescent Stone & Lava Rock Necklace"
 dimensions: 'Neck opening: 28" <br/>Drop: 7" <br/>Width: 5"'
 available: true
 necklace: true
-sortkey: 
+sortkey: 400
 header:
   image: /assets/images/Opalescent_Stone_&_Lava_Rock_Necklace/1.jpg
   teaser: /assets/images/Opalescent_Stone_&_Lava_Rock_Necklace/1.jpg

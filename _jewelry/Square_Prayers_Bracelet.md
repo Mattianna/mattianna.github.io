@@ -2,7 +2,7 @@
 title: "Square Prayers Bracelet"
 dimensions: 'Length: 7"'
 available: true
-sortkey: 
+sortkey: 450
 header:
   image: /assets/images/Square_Prayers_Bracelet/1.jpg
   teaser: /assets/images/Square_Prayers_Bracelet/1.jpg

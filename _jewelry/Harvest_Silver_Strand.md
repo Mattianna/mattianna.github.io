@@ -3,7 +3,7 @@ title: "Harvest Silver Strand"
 dimensions: 'Neck opening: 33" <br/>Drop: 9.5" <br/>Width: 5"'
 available: true
 necklace: true
-sortkey: 
+sortkey: 40
 header:
   image: /assets/images/Harvest_Silver_Strand/1.jpg
   teaser: /assets/images/Harvest_Silver_Strand/1.jpg

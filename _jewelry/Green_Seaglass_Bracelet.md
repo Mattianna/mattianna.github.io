@@ -2,7 +2,7 @@
 title: "Green Seaglass Bracelet"
 dimensions: 'Length: 8"'
 available: true
-sortkey: 
+sortkey: 190
 header:
   image: /assets/images/Green_Seaglass_Bracelet/1.jpg
   teaser: /assets/images/Green_Seaglass_Bracelet/1.jpg

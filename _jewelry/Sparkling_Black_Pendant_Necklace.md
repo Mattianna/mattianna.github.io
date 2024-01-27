@@ -3,7 +3,7 @@ title: "Sparkling Black Pendant Necklace"
 dimensions: 'Neck opening: 24" <br/>Drop: 7" <br/>Width: 5"'
 available: true
 necklace: true
-sortkey: 
+sortkey: 390
 header:
   image: /assets/images/Sparkling_Black_Pendant_Necklace/1.jpg
   teaser: /assets/images/Sparkling_Black_Pendant_Necklace/1.jpg

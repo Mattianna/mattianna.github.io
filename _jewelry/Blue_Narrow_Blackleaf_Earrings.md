@@ -3,7 +3,7 @@ title: "Blue Narrow Blackleaf Earrings"
 dimensions: 'Length: 2.25" <br/>Weight: 4.5g'
 available: true
 earring: true
-sortkey: 
+sortkey: 220
 header:
   image: /assets/images/Blue_Narrow_Blackleaf_Earrings/1.jpg
   teaser: /assets/images/Blue_Narrow_Blackleaf_Earrings/1.jpg

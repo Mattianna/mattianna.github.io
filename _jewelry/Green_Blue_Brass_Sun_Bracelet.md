@@ -2,7 +2,7 @@
 title: "Green & Blue Brass Sun Bracelet"
 dimensions: 'Length: 7.5"'
 available: true
-sortkey: 
+sortkey: 610
 header:
   image: /assets/images/Green_Blue_Brass_Sun_Bracelet/1.jpg
   teaser: /assets/images/Green_Blue_Brass_Sun_Bracelet/1.jpg

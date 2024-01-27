@@ -3,7 +3,7 @@ title: "Catch of the Day Necklace"
 dimensions: 'Neck opening: 17.5" <br/>Drop: 2.5" <br/>Width: 9"'
 available: true
 necklace: true
-sortkey: 
+sortkey: 460
 header:
   image: /assets/images/Catch_of_the_Day_Necklace/1.jpg
   teaser: /assets/images/Catch_of_the_Day_Necklace/1.jpg

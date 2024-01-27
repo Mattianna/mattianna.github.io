@@ -3,7 +3,7 @@ title: "Polished Sea Earrings"
 dimensions: 'Length: 2.3" <br/>Weight: 5g'
 available: true
 earring: true
-sortkey: 
+sortkey: 440
 header:
   image: /assets/images/Polished_Sea_Earrings/1.jpg
   teaser: /assets/images/Polished_Sea_Earrings/1.jpg

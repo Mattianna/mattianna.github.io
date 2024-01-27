@@ -2,7 +2,7 @@
 title: "Silver Squares & Blue Lightening Bracelet"
 dimensions: 'Length: 7.25"'
 available: true
-sortkey: 
+sortkey: 570
 header:
   image: /assets/images/Silver_Square_Blue_Lightening_Bracelet/1.jpg
   teaser: /assets/images/Silver_Square_Blue_Lightening_Bracelet/1.jpg

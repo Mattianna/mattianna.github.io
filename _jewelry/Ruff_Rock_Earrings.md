@@ -3,7 +3,7 @@ title: "Ruff Rock Earrings"
 dimensions: 'Length: 1.7" <br/>Weight: 4g'
 available: true
 earring: true
-sortkey: 
+sortkey: 430
 header:
   image: /assets/images/Ruff_Rock_Earrings/1.jpg
   teaser: /assets/images/Ruff_Rock_Earrings/1.jpg

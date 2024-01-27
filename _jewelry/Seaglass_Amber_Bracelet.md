@@ -2,7 +2,7 @@
 title: "Seaglass & Amber Bracelet"
 dimensions: 'Length: 8"'
 available: true
-sortkey: 
+sortkey: 200
 header:
   image: /assets/images/Seaglass_Amber_Bracelet/1.jpg
   teaser: /assets/images/Seaglass_Amber_Bracelet/1.jpg

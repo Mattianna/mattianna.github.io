@@ -2,7 +2,7 @@
 title: "Green Stripes & Wooden Rondelles Bracelet"
 dimensions: 'Length: 7.5"'
 available: true
-sortkey: 
+sortkey: 520
 header:
   image: /assets/images/Green_Stripes_Wooden_Rondelle_Bracelet/1.jpg
   teaser: /assets/images/Green_Stripes_Wooden_Rondelle_Bracelet/1.jpg

@@ -3,7 +3,7 @@ title: "Silver Circle Chestnut Studs"
 dimensions: 'Length: 3" <br/>Weight: 6g'
 available: true
 earring: true
-sortkey: 
+sortkey: 130
 header:
   image: /assets/images/Silver_Circle_Chestnut_Studs/1.jpg
   teaser: /assets/images/Silver_Circle_Chestnut_Studs/1.jpg

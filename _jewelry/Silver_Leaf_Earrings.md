@@ -3,7 +3,7 @@ title: "Silver Leaf Earrings"
 dimensions: 'Length: 2.6" <br/>Weight: 8g'
 available: true
 earring: true
-sortkey: 
+sortkey: 280
 header:
   image: /assets/images/Silver_Leaf_Earrings/1.jpg
   teaser: /assets/images/Silver_Leaf_Earrings/1.jpg

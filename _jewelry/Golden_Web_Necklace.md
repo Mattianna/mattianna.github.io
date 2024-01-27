@@ -3,7 +3,7 @@ title: "Golden Web Necklace"
 dimensions: 'Neck opening: 17" <br/>Drop: 8" <br/>Width: 9"'
 available: false
 necklace: true
-sortkey: 
+sortkey: 100
 header:
   image: /assets/images/Golden_Web_Necklace/1.jpg
   teaser: /assets/images/Golden_Web_Necklace/1.jpg

@@ -3,7 +3,7 @@ title: "Seaglass Copper Asymmetric Necklace"
 dimensions: 'Neck opening: 23.5" <br/>Drop: 7" <br/>Width: 7"'
 available: true
 necklace: true
-sortkey: 
+sortkey: 170
 header:
   image: /assets/images/Seaglass_Copper_Asymmetric_Necklace/1.jpg
   teaser: /assets/images/Seaglass_Copper_Asymmetric_Necklace/1.jpg

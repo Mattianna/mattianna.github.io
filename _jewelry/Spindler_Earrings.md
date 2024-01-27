@@ -3,7 +3,7 @@ title: "Spindler Earrings"
 dimensions: 'Length: 2.5" <br/>Weight: 3g'
 available: true
 earring: true
-sortkey: 
+sortkey: 560
 header:
   image: /assets/images/Spindler_Earrings/1.jpg
   teaser: /assets/images/Spindler_Earrings/1.jpg

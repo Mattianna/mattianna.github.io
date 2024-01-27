@@ -2,7 +2,7 @@
 title: "Agate & Copper 5 Strand Bracelet"
 dimensions: 'Length: 7"'
 available: true
-sortkey: 
+sortkey: 340
 header:
   image: /assets/images/Agate_Copper_Five_Strand_Bracelet/2.jpg
   teaser: /assets/images/Agate_Copper_Five_Strand_Bracelet/2.jpg

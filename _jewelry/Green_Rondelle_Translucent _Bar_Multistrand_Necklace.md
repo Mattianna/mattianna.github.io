@@ -3,7 +3,7 @@ title: "Green Rondelle & Translucent Bar Multistrand Necklace"
 dimensions: 'Neck opening: 16-18.25" <br/>Drop: 3" <br/>Width: 6"'
 available: true
 necklace: true
-sortkey: 
+sortkey: 250
 header:
   image: /assets/images/Green_Rondelle_Translucent_Bar_Multistrand_Necklace/1.jpg
   teaser: /assets/images/Green_Rondelle_Translucent_Bar_Multistrand_Necklace/1.jpg

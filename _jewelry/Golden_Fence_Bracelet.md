@@ -2,7 +2,7 @@
 title: "Golden Fence Bracelet"
 dimensions: 'Length: 7.5"'
 available: true
-sortkey: 
+sortkey: 110
 header:
   image: /assets/images/Golden_Fence_Bracelet/1.jpg
   teaser: /assets/images/Golden_Fence_Bracelet/1.jpg

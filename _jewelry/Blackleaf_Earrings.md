@@ -3,7 +3,7 @@ title: "Green Blackleaf Earrings"
 dimensions: 'Length: 2" <br/>Weight: 9.5g'
 available: true
 earring: true
-sortkey: 
+sortkey: 180
 header:
   image: /assets/images/Blackleaf_Earrings/1.jpg
   teaser: /assets/images/Blackleaf_Earrings/1.jpg

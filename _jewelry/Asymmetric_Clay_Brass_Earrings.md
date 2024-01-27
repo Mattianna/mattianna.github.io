@@ -3,7 +3,7 @@ title: "Asymmetric Clay & Brass Earring"
 dimensions: 'Length: 2" <br/>Weight: 12g'
 available: true
 earring: true
-sortkey: 
+sortkey: 490
 header:
   image: /assets/images/Asymmetric_Clay_Brass_Earrings/1.jpg
   teaser: /assets/images/Asymmetric_Clay_Brass_Earrings/1.jpg

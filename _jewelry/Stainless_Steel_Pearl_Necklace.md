@@ -3,7 +3,7 @@ title: "Stainless Steel Pearl Necklace"
 dimensions: 'Neck opening: 22" <br/>Drop: 4" <br/>Width: 7"'
 available: true
 necklace: true
-sortkey: 
+sortkey: 90
 header:
   image: /assets/images/Stainless_Steel_Pearl_Necklace/1.jpg
   teaser: /assets/images/Stainless_Steel_Pearl_Necklace/1.jpg

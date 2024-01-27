@@ -3,7 +3,7 @@ title: "Golden Leaf Earrings"
 dimensions: 'Length: 2.7" <br/>Weight: 6.5g'
 available: true
 earring: true
-sortkey: 
+sortkey: 150
 header:
   image: /assets/images/Golden_Leaf_Earrings/1.jpg
   teaser: /assets/images/Golden_Leaf_Earrings/1.jpg

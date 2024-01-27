@@ -3,7 +3,7 @@ title: "Red White & Chocolate Necklace"
 dimensions: 'Neck opening: 26.5" <br/>Drop: 7.25" <br/>Width: 8"'
 available: true
 necklace: true
-sortkey: 
+sortkey: 470
 header:
   image: /assets/images/Red_White_&_Chocolate_Necklace/1.jpg
   teaser: /assets/images/Red_White_&_Chocolate_Necklace/1.jpg

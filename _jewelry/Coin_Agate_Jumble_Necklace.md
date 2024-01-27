@@ -3,7 +3,7 @@ title: "Coin and Agate Jumble Necklace"
 dimensions: 'Neck opening: 20.5" <br/>Drop: 3" <br/>Width: 6"'
 available: true
 necklace: true
-sortkey: 
+sortkey: 120
 header:
   image: /assets/images/Coin_Agate_Jumble_Necklace/1.jpg
   teaser: /assets/images/Coin_Agate_Jumble_Necklace/1.jpg

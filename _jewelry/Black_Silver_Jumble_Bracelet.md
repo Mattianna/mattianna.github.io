@@ -2,7 +2,7 @@
 title: "Black & Silver Jumble Bracelet"
 dimensions: 'Length: 8"'
 available: true
-sortkey: 
+sortkey: 320
 header:
   image: /assets/images/Black_Silver_Jumble_Bracelet/1.jpg
   teaser: /assets/images/Black_Silver_Jumble_Bracelet/1.jpg
