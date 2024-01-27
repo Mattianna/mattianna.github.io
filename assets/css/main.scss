@@ -124,3 +124,19 @@ div.results img {
 h2.archive__item-title, #page-title {
   text-align: center;
 }
+
+.feature__wrapper {
+  clear: both;
+  margin-bottom: 0;
+  border-bottom: 1px solid #f2f3f3;
+}
+
+.page__hero--overlay {
+  position: relative;
+  margin-bottom: 0.5em;
+  padding: 3em 0;
+  clear: both;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
