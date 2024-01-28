@@ -25,10 +25,16 @@ $footer-background-color: #fffbf2;
   src: url('../fonts/Maytra.ttf');
 }
 
-div.initial-content #page-title {
+div.initial-content div.wrapper #page-title {
   font-family: 'Maytra', 'Georgia', serif;
   font-size: 72pt;
   margin-bottom: -16px;
+}
+
+div.initial-content div.archive #page-title {
+  font-family: 'Maytra', 'Georgia', serif;
+  font-size: 48pt;
+  margin-bottom: 16px;
 }
 
 h1.piece_title {
