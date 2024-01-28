@@ -6,18 +6,19 @@ sortkey: 140
 available: false
 foodsafe: false
 header:
-  image: /assets/images/Birdbath/1-1.jpg
-  teaser: /assets/images/Birdbath/1-1.jpg
+  image: /assets/images/Birdbath/4.jpg
+  teaser: /assets/images/Birdbath/4.jpg
 gallery:
-  - url: /assets/images/Birdbath/1-1.jpg
-    image_path: /assets/images/Birdbath/1-1.jpg
-    alt: "Single bowl"
+  - url: /assets/images/Birdbath/4.jpg
+    image_path: /assets/images/Birdbath/4.jpg
+    alt: "Birth bath close up"
   - url: /assets/images/Birdbath/2-2.jpg
     image_path: /assets/images/Birdbath/2-2.jpg
-    alt: "Set of bowls"
-  - url: /assets/images/Birdbath/process.jpg
-    image_path: /assets/images/Birdbath/process.jpg
-    alt: "Stack of bowls"
+    alt: "birdbath in place"
+  - url: /assets/images/Birdbath/5.jpg
+    image_path: /assets/images/Birdbath/5.jpg
+    alt: "Birdbath other angle"
+
 
 
 ---
