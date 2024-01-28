@@ -2,7 +2,7 @@
 open a terminnal
 cd Documents/mattianna.github.io/
 make serve
-navigate to http://127.0.0.1:4001/stephanie-website/ (or whatever it says on terminnal)
+navigate to http://127.0.0.1:4001/ (or whatever it says on terminnal)
 
 If config file is updated...
 	Stop server: control-C in the terminal window that is running the server
