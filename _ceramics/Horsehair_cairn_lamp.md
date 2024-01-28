@@ -3,7 +3,7 @@ title: "Horsehair Cairn Lamp"
 quantity: 1
 dimensions: '4" high <br/>5" diameter'
 available: false
-sortkey: 50
+sortkey: 80
 foodsafe: false
 header:
   image: /assets/images/Horsehair_Cairn_Lamp/1.jpg
