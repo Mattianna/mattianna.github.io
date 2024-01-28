@@ -18,4 +18,4 @@ gallery:
 
 {% include gallery %}
 
-This small planter is made of high fire porcelain and black slip mixed with sodium silicate was painted on a faceted pot during the throwing process to created a characteristic crackle.  With this distinctive and yet simple palate, the planter compliments rather than competes with any house plant.
+This small planter is made of high fire porcelain and black slip mixed with sodium silicate painted on a faceted pot during the throwing process to create a characteristic crackle. With this distinctive and yet simple palette, the planter compliments rather than competes with any house plant.

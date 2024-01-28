@@ -2,7 +2,7 @@
 title: "Set of Eggshell Dishes"
 quantity: "8"
 dimensions: 'Lg Plates: 10.5" diameter <br/> Sm Plates: 8.75" diameter <br/> Bowls: 2.5" high, 7.25" diameter <br/> Mugs: 4-4.3" high, 4-4.5" diameter <br/>'
-available: true
+available: false
 sortkey: 220
 header:
   image: /assets/images/Set_of_Dishes-eggshell/1-1.jpg
@@ -33,5 +33,5 @@ gallery:
 
 {% include gallery %}
 
-This set of dishes includes dinner plates, salad plates, wide bowls, and mugs.  Glaze with a combination of eggshell and clear, these dishes are a rich canvas to showcase any meal.
+This set of dishes includes dinner plates, salad plates, wide bowls, and mugs. Glazed with a combination of eggshell and clear, these dishes are a rich canvas to showcase any meal.
 

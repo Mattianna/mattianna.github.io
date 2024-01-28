@@ -19,4 +19,4 @@ gallery:
 
 {% include gallery %}
 
-Made with alternating cylindrical turquoise  pieces and faceted wooden pieces this necklace is simple and elegant. 
+Made with alternating cylindrical turquoise pieces and faceted wooden pieces this necklace is simple and elegant. The small silver discs give it just a pop of excitement.

@@ -19,3 +19,4 @@ gallery:
 
 {% include gallery %}
 
+This lamp base, inspired by cairns of stone found on mountain trails, consists of eight stacked elements of porcelain “balls” and is another in my cairn series. The porcelain components were fired in a raku kiln and then horsehair was applied when the pieces were removed hot from the kiln creating the calligraphic patterns on their surfaces.

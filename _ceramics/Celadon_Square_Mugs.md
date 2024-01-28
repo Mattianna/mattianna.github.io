@@ -23,4 +23,4 @@ gallery:
 
 {% include gallery %}
 
-This set of four mugs are a tactile treat.  Made with high fire porcelain, they are decorated with black slip and a roller during the throwing process and finished with a translucent celadon.
+This set of four mugs are a tactile treat. Made with high fire porcelain, they are decorated with black slip and a roller during the throwing process and finished with a translucent celadon glaze.

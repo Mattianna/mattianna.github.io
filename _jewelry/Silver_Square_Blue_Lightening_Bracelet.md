@@ -18,4 +18,4 @@ gallery:
 
 {% include gallery %}
 
-Made with matte black square  beads, blue crackeled spheres, and silver frames this elegant periodic bracelet is finished with a magnetic clasp.
+Made with matte black square  beads, blue crackled spheres, and silver frames this elegant periodic bracelet is finished with a magnetic clasp.

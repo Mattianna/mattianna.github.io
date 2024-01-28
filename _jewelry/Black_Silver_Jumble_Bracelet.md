@@ -19,4 +19,4 @@ gallery:
 {% include gallery %}
 
 
-Six jumbled strands makeup this bracelet that showcase slightly twisted silver beads against matte black seed beads to make up this jumbled bracelet.
+Six jumbled strands make up this bracelet that showcase slightly twisted silver beads against matte black seed beads to make up this jumbled bracelet.

@@ -23,4 +23,4 @@ gallery:
 
 {% include gallery %}
 
-These bowls were created during an Arist in Residence at [Alchemy Art Center](https://alchemyartcenter.com/) on San Juan Island.  Made with a dark clay body, white slip mixed with sodium silicate was then painted on the bowls during the throwing process to created a characteristic crackle.  With this distinctive and yet simple palate, the bowls are classics.
+These bowls were created during an Artist in Residence at [Alchemy Art Center](https://alchemyartcenter.com/) on San Juan Island. Made with a dark clay body, white slip mixed with sodium silicate was then painted on the bowls during the throwing process to create a characteristic crackle. With this distinctive and yet simple palette, the bowls are classics.

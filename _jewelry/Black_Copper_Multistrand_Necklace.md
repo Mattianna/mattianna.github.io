@@ -19,4 +19,4 @@ gallery:
 
 {% include gallery %}
 
-Made with copper beads bought bought in China, mixed in with black seed beads, and framed by recycled cream-colored slotted ovals this simple necklace warm and inviting.
+This elegant necklace is made of a simple combination of copper beads bought in China with black seed beads. The rich density of the many dark strands is set off by recycled cream-colored slotted ovals that result in an exciting composition of forms.

@@ -18,5 +18,4 @@ gallery:
 
 {% include gallery %}
 
-This set of two nested mixing bowls is made of midrange clay and glazed with a rich sandy glaze to give both a consistent look while having each piece of the set be unique.
-
+This set of two nested bowls is made of midrange clay and glazed with a rich sandy glaze to give both a consistent look while having each piece of the set be unique. Imagine how beautifully a green salad or a selection of fruit would contrast with the hue of these bowls.

@@ -20,4 +20,4 @@ gallery:
 {% include gallery %}
 
 
-Five jumbled strands makeup this bracelet that showcase varigated red agates and speckled tan Indian beads against matte black seed beads and silver accents to make up this jumbled braclet.
+Five jumbled strands make up this bracelet that showcases variegated red agates and speckled tan Indian beads against matte black seed beads along with silver accents. 

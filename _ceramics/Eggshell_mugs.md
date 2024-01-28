@@ -21,4 +21,4 @@ gallery:
 
 {% include gallery %}
 
-These mugs are made of midrange clay and glazed with an eggshell glaze to give both a consistent look while embracing a variation in shape and size so everyone can have their favorite mug.
+These mugs are made of midrange clay and glazed with an eggshell glaze that has subtle variations. This consistency of tone creates a nice set while embracing enough variation to distinguish each as unique and allowing everyone to identify their personal favorite within the set. 

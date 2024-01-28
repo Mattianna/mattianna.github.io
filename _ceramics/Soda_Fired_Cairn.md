@@ -20,4 +20,4 @@ gallery:
 
 {% include gallery %}
 
-This high fire stoneware lamp is a continuation of my cairn series.  Decorated with colored slip and the iron content of the clay body interacting with a soda kiln, this lamp is earthy and grounded while towering and lighting the way.
+This high fire stoneware lamp is a continuation of my cairn series. The “stone” elements of this base are decorated with a colored slip which interacts with the iron content within the clay of the forms themselves. This combination of elements, while being fired in a soda kiln, result in the dramatic coloration of this beautiful lamp. It is earthy and grounded while towering and lighting the way.

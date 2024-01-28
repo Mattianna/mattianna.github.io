@@ -1,5 +1,5 @@
 ---
-title: "Forest-ation"
+title: "For-estation"
 quantity: 1
 dimensions: '7.5" high <br/>8" diameter'
 available: true
@@ -19,4 +19,4 @@ gallery:
 
 {% include gallery %}
 
-Covered with simple carvings excentuated with a copper carbonate stain, this vase plays with positive and negative space.
+Covered with simple carvings accentuated with a copper carbonate stain, this vase plays with positive and negative space.

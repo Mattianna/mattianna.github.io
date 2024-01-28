@@ -18,6 +18,6 @@ gallery:
 
 {% include gallery %}
 
-These mugs are made of high fire porcelain and black slip mixed with sodium silicate was  painted on the body of the mug during the throwing process to created a characteristic crackle.  With this distinctive and yet simple palate, the mugs are classics.
+These mugs are thrown using a high fire porcelain which are then decorated with a black slip mixed with sodium silicate. The slip is applied during the throwing process to create a characteristic crackle. With this distinctive and yet simple palette, the mugs are classic.
 
 

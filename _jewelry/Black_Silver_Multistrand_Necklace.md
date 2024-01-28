@@ -20,4 +20,4 @@ gallery:
 {% include gallery %}
 
 
-Made with silver pieces and African black and white beads mixed with black seed beads framed by recycled black and white geometric ceramic pieces this simple necklace cool and sophisticated.
+Made with silver pieces and African black and white beads mixed with black seed beads framed by recycled glass black and white geometric ceramic pieces this simple necklace is cool and sophisticated. 

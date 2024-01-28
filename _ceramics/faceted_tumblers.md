@@ -27,4 +27,4 @@ gallery:
 
 {% include gallery %}
 
-These variegated tumblers are made of different midrange clays and their faceted bodies nestle into your hand.
+These variegated tumblers are made of different midrange clays and their faceted bodies nestle nicely into your hand.

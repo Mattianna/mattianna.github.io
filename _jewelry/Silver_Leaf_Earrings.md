@@ -17,4 +17,4 @@ gallery:
 
 {% include gallery %}
 
-Made with two undulating metal leaf pieces and topped with an inverted sterling silver teardrop, these sophisticated earrings are dynamic.
+Made with two undulating metal leaf pieces and topped with an inverted sterling silver teardrop, these sophisticated earrings are dynamic. 

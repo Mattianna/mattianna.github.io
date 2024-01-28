@@ -19,4 +19,4 @@ gallery:
 
 {% include gallery %}
 
-Made with blue and green African ceramic beads interspersed with round brass suns, this dual strand bracelet  warm and inviting.
+Made with blue and green African ceramic beads interspersed with round brass suns, this dual strand bracelet is warm and inviting.

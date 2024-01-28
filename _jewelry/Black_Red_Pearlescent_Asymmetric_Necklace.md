@@ -19,4 +19,4 @@ gallery:
 
 {% include gallery %}
 
-Made with a glass opalescent beads from China mixed with an assortment of silver pieces from recycled necklaces and beads bought in India set against a variety of black and silver beads this asymmetrical 10 strand necklace is  one of my favorites.
+This necklace is made combining glass opalescent beads from China, an assortment of silver pieces from recycled necklaces and beads bought in India. These featured beads are set amongst a variety of black and silver beads resulting in a beautiful asymmetrical composition of 10 strands. It is one of my favorites.

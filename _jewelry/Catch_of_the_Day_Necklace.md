@@ -20,4 +20,4 @@ gallery:
 {% include gallery %}
 
 
-This playful choker is made of ruby colored coral pieces mixed with golden seed beads, silver accents, and urchin shells that frame a central woven pendant containing larger coral pieces.
+This playful choker is made of ruby colored coral pieces mixed with golden seed beads, silver accents, and urchin shells that frame a central pendant of knitted gold wire that contain two thicker  coral sticks. 
