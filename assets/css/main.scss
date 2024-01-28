@@ -28,7 +28,7 @@ $footer-background-color: #fffbf2;
 div.initial-content div.wrapper #page-title {
   font-family: 'Maytra', 'Georgia', serif;
   font-size: 60pt;
-  margin-bottom: -16px;
+  margin-bottom: 0;
 }
 
 div.initial-content div.archive #page-title {
@@ -148,4 +148,8 @@ h2.archive__item-title, #page-title {
 
 .page__hero--overlay {
   margin-bottom: 1em;
+}
+
+div.archive__item-excerpt {
+  font-weight: bold;
 }
