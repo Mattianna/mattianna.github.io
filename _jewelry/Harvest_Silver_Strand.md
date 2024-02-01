@@ -23,4 +23,4 @@ gallery:
 {% include gallery %}
 
 
-This beautiful strand, worn either as a necklace or a wrapped braclet, is an autumnal composition of Chinese glass beads, Indian metalic beads, recycled white discs, against a background of golden and iridescent seed beads.
+This beautiful strand, worn either as a necklace or a wrapped braclet, is an autumnal composition of Chinese glass beads, Indian metalic beads, and recycled white discs against a background of golden and iridescent seed beads.
