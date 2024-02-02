@@ -1,5 +1,5 @@
 ---
-title: "Silver Squares & Blue Lightening Bracelet"
+title: "Silver Squares & Blue Lightning Bracelet"
 dimensions: 'Length: 7.25"'
 available: true
 sortkey: 570
