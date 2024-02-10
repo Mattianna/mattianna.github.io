@@ -1,7 +1,7 @@
 ---
 title: "Horsehair Cairn Lamp"
 quantity: 1
-dimensions: '9" diameter <br/>26" high (10" harp)'
+dimensions: '8.5" diameter <br/>27" high (10" harp)'
 available: false
 sortkey: 80
 foodsafe: false
