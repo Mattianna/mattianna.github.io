@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : 
 name                     : "Stephanie Roe"
 description              : "Ceramics and Jewelry Portfolio"
-url                      : https://roed314.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://MattiannaArts.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               : Mattianna/mattianna.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
