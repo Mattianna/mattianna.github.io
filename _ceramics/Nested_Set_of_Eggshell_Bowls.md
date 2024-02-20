@@ -11,8 +11,8 @@ gallery:
   - url: /assets/images/Nested_Bowl_Set-eggshell/1.jpg
     image_path: /assets/images/Nested_Bowl_Set-eggshell/1.jpg
     alt: "Single bowl"
-  - url: /assets/images/Nested_Bowl_Set-eggshell/Stack.jpg
-    image_path: /assets/images/Nested_Bowl_Set-eggshell/Stack.jpg
+  - url: /assets/images/Nested_Bowl_Set-eggshell/stack.jpg
+    image_path: /assets/images/Nested_Bowl_Set-eggshell/stack.jpg
     alt: "Set of bowls"
 ---
 
