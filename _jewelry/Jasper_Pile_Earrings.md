@@ -6,11 +6,11 @@ price: 40
 earring: true
 sortkey: 10
 header:
-  image: /assets/images/Jasper_Pile_Earrings/1.mp.jpg
-  teaser: /assets/images/Jasper_Pile_Earrings/1.mp.jpg
+  image: /assets/images/Jasper_Pile_Earrings/1.jpg
+  teaser: /assets/images/Jasper_Pile_Earrings/1.jpg
 gallery:
-  - url: /assets/images/Jasper_Pile_Earrings/1.mp.jpg
-    image_path: /assets/images/Jasper_Pile_Earrings/1.mp.jpg
+  - url: /assets/images/Jasper_Pile_Earrings/1.jpg
+    image_path: /assets/images/Jasper_Pile_Earrings/1.jpg
     alt: "First picture of Earrings"
 
 ---
