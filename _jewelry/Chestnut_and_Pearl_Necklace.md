@@ -7,7 +7,7 @@ necklace: true
 sortkey: 1
 header:
   image: /assets/images/Chestnut_and_Pearl_Necklace/1.jpg
-  teaser: /assets/images/Chestnut_and_Pearl_Necklace/1.jpg
+  teaser: /assets/images/Chestnut_and_Pearl_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Chestnut_and_Pearl_Necklace/1.jpg
     image_path: /assets/images/Chestnut_and_Pearl_Necklace/1.jpg
