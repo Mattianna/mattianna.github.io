@@ -7,7 +7,7 @@ sortkey: 50
 foodsafe: false
 header:
   image: /assets/images/Emerald_Basin_Cairn_Lamp/3.jpg
-  teaser: /assets/images/Emerald_Basin_Cairn_Lamp/3.jpg
+  teaser: /assets/images/Emerald_Basin_Cairn_Lamp/1-thumb.jpg
 gallery:
   - url: /assets/images/Emerald_Basin_Cairn_Lamp/3.jpg
     image_path: /assets/images/Emerald_Basin_Cairn_Lamp/3.jpg

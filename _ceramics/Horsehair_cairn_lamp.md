@@ -7,7 +7,7 @@ sortkey: 80
 foodsafe: false
 header:
   image: /assets/images/Horsehair_Cairn_Lamp/3.jpg
-  teaser: /assets/images/Horsehair_Cairn_Lamp/3.jpg
+  teaser: /assets/images/Horsehair_Cairn_Lamp/1-thumb.jpg
 gallery:
   - url: /assets/images/Horsehair_Cairn_Lamp/3.jpg
     image_path: /assets/images/Horsehair_Cairn_Lamp/3.jpg

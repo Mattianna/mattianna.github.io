@@ -7,7 +7,7 @@ necklace: true
 sortkey: 480
 header:
   image: /assets/images/Teal_Seed_Bead_Jumble_Multistrand_Necklace/1.jpg
-  teaser: /assets/images/Teal_Seed_Bead_Jumble_Multistrand_Necklace/1.jpg
+  teaser: /assets/images/Teal_Seed_Bead_Jumble_Multistrand_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Teal_Seed_Bead_Jumble_Multistrand_Necklace/1.jpg
     image_path: /assets/images/Teal_Seed_Bead_Jumble_Multistrand_Necklace/1.jpg

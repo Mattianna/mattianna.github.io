@@ -7,7 +7,7 @@ necklace: true
 sortkey: 9
 header:
   image: /assets/images/Red_and_Silver_Asymmetric_Choker/1.jpg
-  teaser: /assets/images/Red_and_Silver_Asymmetric_Choker/1.jpg
+  teaser: /assets/images/Red_and_Silver_Asymmetric_Choker/1-thumb.jpg
 gallery:
   - url: /assets/images/Red_and_Silver_Asymmetric_Choker/1.jpg
     image_path: /assets/images/Red_and_Silver_Asymmetric_Choker/1.jpg

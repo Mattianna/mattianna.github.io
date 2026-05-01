@@ -7,7 +7,7 @@ earring: true
 sortkey: 12
 header:
   image: /assets/images/Polished_Stone_Earrings/1.jpg
-  teaser: /assets/images/Polished_Stone_Earrings/1.jpg
+  teaser: /assets/images/Polished_Stone_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/Polished_Stone_Earrings/1.jpg
     image_path: /assets/images/Polished_Stone_Earrings/1.jpg

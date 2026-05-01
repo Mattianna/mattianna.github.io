@@ -6,7 +6,7 @@ price: 40
 sortkey: 230
 header:
   image: /assets/images/Blue_Seaglass_Bracelet/1.jpg
-  teaser: /assets/images/Blue_Seaglass_Bracelet/1.jpg
+  teaser: /assets/images/Blue_Seaglass_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Blue_Seaglass_Bracelet/1.jpg
     image_path: /assets/images/Blue_Seaglass_Bracelet/1.jpg

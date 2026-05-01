@@ -6,7 +6,7 @@ price: 45
 sortkey: 570
 header:
   image: /assets/images/Silver_Square_Blue_Lightning_Bracelet/1.jpg
-  teaser: /assets/images/Silver_Square_Blue_Lightning_Bracelet/1.jpg
+  teaser: /assets/images/Silver_Square_Blue_Lightning_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Silver_Square_Blue_Lightning_Bracelet/1.jpg
     image_path: /assets/images/Silver_Square_Blue_Lightning_Bracelet/1.jpg

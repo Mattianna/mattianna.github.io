@@ -7,7 +7,7 @@ earring: true
 sortkey: 30
 header:
   image: /assets/images/Smoky_Marble_Earrings/1.jpg
-  teaser: /assets/images/Smoky_Marble_Earrings/1.jpg
+  teaser: /assets/images/Smoky_Marble_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/Smoky_Marble_Earrings/1.jpg
     image_path: /assets/images/Smoky_Marble_Earrings/1.jpg

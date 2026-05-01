@@ -7,7 +7,7 @@ sortkey: 60
 foodsafe: false
 header:
   image: /assets/images/Emerald_Lake_Cairn_Lamp/2.jpg
-  teaser: /assets/images/Emerald_Lake_Cairn_Lamp/2.jpg
+  teaser: /assets/images/Emerald_Lake_Cairn_Lamp/1-thumb.jpg
 gallery:
   - url: /assets/images/Emerald_Lake_Cairn_Lamp/2.jpg
     image_path: /assets/images/Emerald_Lake_Cairn_Lamp/2.jpg

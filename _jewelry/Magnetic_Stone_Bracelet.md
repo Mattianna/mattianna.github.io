@@ -6,7 +6,7 @@ price: 45
 sortkey: 580
 header:
   image: /assets/images/Magnetic_Stone_Bracelet/1.jpg
-  teaser: /assets/images/Magnetic_Stone_Bracelet/1.jpg
+  teaser: /assets/images/Magnetic_Stone_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Magnetic_Stone_Bracelet/1.jpg
     image_path: /assets/images/Magnetic_Stone_Bracelet/1.jpg

@@ -6,7 +6,7 @@ available: false
 sortkey: 220
 header:
   image: /assets/images/Set_of_Dishes-eggshell/1-1.jpg
-  teaser: /assets/images/Set_of_Dishes-eggshell/1-1.jpg
+  teaser: /assets/images/Set_of_Dishes-eggshell/1-thumb.jpg
 gallery:
   - url: /assets/images/Set_of_Dishes-eggshell/1-1.jpg
     image_path: /assets/images/Set_of_Dishes-eggshell/1-1.jpg

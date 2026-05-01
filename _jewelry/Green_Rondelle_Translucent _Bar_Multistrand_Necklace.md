@@ -7,7 +7,7 @@ necklace: true
 sortkey: 250
 header:
   image: /assets/images/Green_Rondelle_Translucent_Bar_Multistrand_Necklace/1.jpg
-  teaser: /assets/images/Green_Rondelle_Translucent_Bar_Multistrand_Necklace/1.jpg
+  teaser: /assets/images/Green_Rondelle_Translucent_Bar_Multistrand_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Green_Rondelle_Translucent_Bar_Multistrand_Necklace/1.jpg
     image_path: /assets/images/Green_Rondelle_Translucent_Bar_Multistrand_Necklace/1.jpg

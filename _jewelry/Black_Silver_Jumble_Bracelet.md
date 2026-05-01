@@ -6,7 +6,7 @@ price: 45
 sortkey: 320
 header:
   image: /assets/images/Black_Silver_Jumble_Bracelet/1.jpg
-  teaser: /assets/images/Black_Silver_Jumble_Bracelet/1.jpg
+  teaser: /assets/images/Black_Silver_Jumble_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Black_Silver_Jumble_Bracelet/1.jpg
     image_path: /assets/images/Black_Silver_Jumble_Bracelet/1.jpg

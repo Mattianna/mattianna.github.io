@@ -7,7 +7,7 @@ earring: true
 sortkey: 4
 header:
   image: /assets/images/Gold_and_Green_Stone_Studs/1.jpg
-  teaser: /assets/images/Gold_and_Green_Stone_Studs/1.jpg
+  teaser: /assets/images/Gold_and_Green_Stone_Studs/1-thumb.jpg
 gallery:
   - url: /assets/images/Gold_and_Green_Stone_Studs/1.jpg
     image_path: /assets/images/Gold_and_Green_Stone_Studs/1.jpg

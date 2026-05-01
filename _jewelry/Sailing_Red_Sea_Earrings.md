@@ -7,7 +7,7 @@ earring: true
 sortkey: 11
 header:
   image: /assets/images/Sailing_Red_Sea_Earrings/1.jpg
-  teaser: /assets/images/Sailing_Red_Sea_Earrings/1.jpg
+  teaser: /assets/images/Sailing_Red_Sea_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/Sailing_Red_Sea_Earrings/1.jpg
     image_path: /assets/images/Sailing_Red_Sea_Earrings/1.jpg

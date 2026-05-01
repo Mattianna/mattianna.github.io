@@ -6,7 +6,7 @@ sortkey: 130
 available: triue
 header:
   image: /assets/images/Blue_Kelp_Lamp/2.jpg
-  teaser: /assets/images/Blue_Kelp_Lamp/2.jpg
+  teaser: /assets/images/Blue_Kelp_Lamp/1-thumb.jpg
 gallery:
   - url: /assets/images/Blue_Kelp_Lamp/2.jpg
     image_path: /assets/images/Blue_Kelp_Lamp/2.jpg

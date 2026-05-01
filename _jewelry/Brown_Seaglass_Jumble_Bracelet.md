@@ -6,7 +6,7 @@ price: 45
 sortkey: 210
 header:
   image: /assets/images/Brown_Seaglass_Jumble_Bracelet/1.jpg
-  teaser: /assets/images/Brown_Seaglass_Jumble_Bracelet/1.jpg
+  teaser: /assets/images/Brown_Seaglass_Jumble_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Brown_Seaglass_Jumble_Bracelet/1.jpg
     image_path: /assets/images/Brown_Seaglass_Jumble_Bracelet/1.jpg

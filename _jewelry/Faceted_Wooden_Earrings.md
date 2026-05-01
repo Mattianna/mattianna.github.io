@@ -7,7 +7,7 @@ earring: true
 sortkey: 60
 header:
   image: /assets/images/Faceted_Wooden_Earrings/1.jpg
-  teaser: /assets/images/Faceted_Wooden_Earrings/1.jpg
+  teaser: /assets/images/Faceted_Wooden_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/Faceted_Wooden_Earrings/1.jpg
     image_path: /assets/images/Faceted_Wooden_Earrings/1.jpg

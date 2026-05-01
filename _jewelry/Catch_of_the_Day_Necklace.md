@@ -7,7 +7,7 @@ necklace: true
 sortkey: 460
 header:
   image: /assets/images/Catch_of_the_Day_Necklace/1.jpg
-  teaser: /assets/images/Catch_of_the_Day_Necklace/1.jpg
+  teaser: /assets/images/Catch_of_the_Day_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Catch_of_the_Day_Necklace/1.jpg
     image_path: /assets/images/Catch_of_the_Day_Necklace/1.jpg

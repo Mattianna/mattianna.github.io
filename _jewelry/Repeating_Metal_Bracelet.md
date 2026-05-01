@@ -6,7 +6,7 @@ price: 65
 sortkey: 380
 header:
   image: /assets/images/Repeating_Metal_Bracelet/1.jpg
-  teaser: /assets/images/Repeating_Metal_Bracelet/1.jpg
+  teaser: /assets/images/Repeating_Metal_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Repeating_Metal_Bracelet/1.jpg
     image_path: /assets/images/Repeating_Metal_Bracelet/1.jpg

@@ -6,7 +6,7 @@ available: true
 sortkey: 190
 header:
   image: /assets/images/Nester_Set_of_Sand_Dune_Bowls/1.jpg
-  teaser: /assets/images/Nester_Set_of_Sand_Dune_Bowls/1.jpg
+  teaser: /assets/images/Nester_Set_of_Sand_Dune_Bowls/1-thumb.jpg
 gallery:
   - url: /assets/images/Nester_Set_of_Sand_Dune_Bowls/1.jpg
     image_path: /assets/images/Nester_Set_of_Sand_Dune_Bowls/1.jpg

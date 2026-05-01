@@ -6,7 +6,7 @@ available: true
 sortkey: 210
 header:
   image: /assets/images/Alchemy_Blue_Brown_Bowl/1.jpg
-  teaser: /assets/images/Alchemy_Blue_Brown_Bowl/1.jpg
+  teaser: /assets/images/Alchemy_Blue_Brown_Bowl/1-thumb.jpg
 gallery:
   - url: /assets/images/Alchemy_Blue_Brown_Bowl/1.jpg
     image_path: /assets/images/Alchemy_Blue_Brown_Bowl/1.jpg

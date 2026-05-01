@@ -7,7 +7,7 @@ earring: true
 sortkey: 130
 header:
   image: /assets/images/Silver_Circle_Chestnut_Studs/1.jpg
-  teaser: /assets/images/Silver_Circle_Chestnut_Studs/1.jpg
+  teaser: /assets/images/Silver_Circle_Chestnut_Studs/1-thumb.jpg
 gallery:
   - url: /assets/images/Silver_Circle_Chestnut_Studs/1.jpg
     image_path: /assets/images/Silver_Circle_Chestnut_Studs/1.jpg

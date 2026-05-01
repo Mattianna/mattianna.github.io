@@ -7,7 +7,7 @@ tags: alchemy
 sortkey: 110
 header:
   image: /assets/images/Alchemy_Blue_Brown_Mugs/set.jpg
-  teaser: /assets/images/Alchemy_Blue_Brown_Mugs/set.jpg
+  teaser: /assets/images/Alchemy_Blue_Brown_Mugs/1-thumb.jpg
 gallery:
   - url: /assets/images/Alchemy_Blue_Brown_Mugs/1.jpg
     image_path: /assets/images/Alchemy_Blue_Brown_Mugs/1.jpg

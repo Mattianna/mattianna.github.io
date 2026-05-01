@@ -7,7 +7,7 @@ necklace: true
 sortkey: 240
 header:
   image: /assets/images/Brass_Meets_Sea_Multistrand_Necklace/1.jpg
-  teaser: /assets/images/Brass_Meets_Sea_Multistrand_Necklace/1.jpg
+  teaser: /assets/images/Brass_Meets_Sea_Multistrand_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Brass_Meets_Sea_Multistrand_Necklace/1.jpg
     image_path: /assets/images/Brass_Meets_Sea_Multistrand_Necklace/1.jpg

@@ -6,7 +6,7 @@ price: 45
 sortkey: 520
 header:
   image: /assets/images/Green_Stripes_Wooden_Rondelle_Bracelet/1.jpg
-  teaser: /assets/images/Green_Stripes_Wooden_Rondelle_Bracelet/1.jpg
+  teaser: /assets/images/Green_Stripes_Wooden_Rondelle_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Green_Stripes_Wooden_Rondelle_Bracelet/1.jpg
     image_path: /assets/images/Green_Stripes_Wooden_Rondelle_Bracelet/1.jpg

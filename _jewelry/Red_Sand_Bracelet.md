@@ -6,7 +6,7 @@ price: 45
 sortkey: 360
 header:
   image: /assets/images/Red_Sand_Bracelet/1.jpg
-  teaser: /assets/images/Red_Sand_Bracelet/1.jpg
+  teaser: /assets/images/Red_Sand_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Red_Sand_Bracelet/1.jpg
     image_path: /assets/images/Red_Sand_Bracelet/1.jpg

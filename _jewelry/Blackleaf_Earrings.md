@@ -7,7 +7,7 @@ earring: true
 sortkey: 180
 header:
   image: /assets/images/Blackleaf_Earrings/1.jpg
-  teaser: /assets/images/Blackleaf_Earrings/1.jpg
+  teaser: /assets/images/Blackleaf_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/Blackleaf_Earrings/1.jpg
     image_path: /assets/images/Blackleaf_Earrings/1.jpg

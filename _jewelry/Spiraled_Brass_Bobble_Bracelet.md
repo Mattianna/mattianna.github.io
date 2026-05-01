@@ -6,7 +6,7 @@ price: 45
 sortkey: 510
 header:
   image: /assets/images/Spiraled_Brass_Bobble_Bracelet/1.jpg
-  teaser: /assets/images/Spiraled_Brass_Bobble_Bracelet/1.jpg
+  teaser: /assets/images/Spiraled_Brass_Bobble_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Spiraled_Brass_Bobble_Bracelet/1.jpg
     image_path: /assets/images/Spiraled_Brass_Bobble_Bracelet/1.jpg

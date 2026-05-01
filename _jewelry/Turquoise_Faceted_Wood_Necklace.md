@@ -7,7 +7,7 @@ necklace: true
 sortkey: 50
 header:
   image: /assets/images/Turquoise_Faceted_Wood_Necklace/3.jpg
-  teaser: /assets/images/Turquoise_Faceted_Wood_Necklace/3.jpg
+  teaser: /assets/images/Turquoise_Faceted_Wood_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Turquoise_Faceted_Wood_Necklace/3.jpg
     image_path: /assets/images/Turquoise_Faceted_Wood_Necklace/3.jpg

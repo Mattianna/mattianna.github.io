@@ -1,5 +1,5 @@
 ---
-title: "Silver and Stone Square Necklace"
+title: "Silver & Stone Square Necklace"
 dimensions: 'Neck opening: 35" <br/>Drop: 14" <br/>Width: 6"'
 available: true
 price: 180
@@ -7,7 +7,7 @@ necklace: true
 sortkey: 8
 header:
   image: /assets/images/Silver_and_Stone_Square_Necklace/1.jpg
-  teaser: /assets/images/Silver_and_Stone_Square_Necklace/1.jpg
+  teaser: /assets/images/Silver_and_Stone_Square_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Silver_and_Stone_Square_Necklace/1.jpg
     image_path: /assets/images/Silver_and_Stone_Square_Necklace/1.jpg

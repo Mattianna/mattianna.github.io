@@ -7,7 +7,7 @@ earring: true
 sortkey: 490
 header:
   image: /assets/images/Asymmetric_Stone_Earrings/1.jpg
-  teaser: /assets/images/Asymmetric_Stone_Earrings/1.jpg
+  teaser: /assets/images/Asymmetric_Stone_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/Asymmetric_Stone_Earrings/1.jpg
     image_path: /assets/images/Asymmetric_Stone_Earrings/1.jpg

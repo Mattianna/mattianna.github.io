@@ -6,7 +6,7 @@ available: true
 sortkey: 240
 header:
   image: /assets/images/Forestation/1.jpg
-  teaser: /assets/images/Forestation/1.jpg
+  teaser: /assets/images/Forestation/1-thumb.jpg
 gallery:
   - url: /assets/images/Forestation/1.jpg
     image_path: /assets/images/Forestation/1.jpg

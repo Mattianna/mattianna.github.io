@@ -6,7 +6,7 @@ price: 40
 sortkey: 200
 header:
   image: /assets/images/Seaglass_Amber_Bracelet/1.jpg
-  teaser: /assets/images/Seaglass_Amber_Bracelet/1.jpg
+  teaser: /assets/images/Seaglass_Amber_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Seaglass_Amber_Bracelet/1.jpg
     image_path: /assets/images/Seaglass_Amber_Bracelet/1.jpg

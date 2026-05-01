@@ -7,7 +7,7 @@ earring: true
 sortkey: 430
 header:
   image: /assets/images/Ruff_Rock_Earrings/1.jpg
-  teaser: /assets/images/Ruff_Rock_Earrings/1.jpg
+  teaser: /assets/images/Ruff_Rock_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/Ruff_Rock_Earrings/1.jpg
     image_path: /assets/images/Ruff_Rock_Earrings/1.jpg

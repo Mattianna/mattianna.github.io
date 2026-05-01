@@ -7,7 +7,7 @@ earring: true
 sortkey: 290
 header:
   image: /assets/images/Batik_Blue_Earrings/1.jpg
-  teaser: /assets/images/Batik_Blue_Earrings/1.jpg
+  teaser: /assets/images/Batik_Blue_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/Batik_Blue_Earrings/1.jpg
     image_path: /assets/images/Batik_Blue_Earrings/1.jpg

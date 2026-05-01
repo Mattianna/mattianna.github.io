@@ -7,7 +7,7 @@ earring: true
 sortkey: 140
 header:
   image: /assets/images/Golden_Chestnut_Earrings/1.jpg
-  teaser: /assets/images/Golden_Chestnut_Earrings/1.jpg
+  teaser: /assets/images/Golden_Chestnut_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/Golden_Chestnut_Earrings/1.jpg
     image_path: /assets/images/Golden_Chestnut_Earrings/1.jpg

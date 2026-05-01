@@ -6,7 +6,7 @@ price: 55
 sortkey: 500
 header:
   image: /assets/images/Red_White_&_Brass_Bracelet/1.jpg
-  teaser: /assets/images/Red_White_&_Brass_Bracelet/1.jpg
+  teaser: /assets/images/Red_White_&_Brass_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Red_White_&_Brass_Bracelet/1.jpg
     image_path: /assets/images/Red_White_&_Brass_Bracelet/1.jpg

@@ -6,7 +6,7 @@ available: true
 sortkey: 170
 header:
   image: /assets/images/Large_Carved_Tenmoku_Bowl/1.jpg
-  teaser: /assets/images/Large_Carved_Tenmoku_Bowl/1.jpg
+  teaser: /assets/images/Large_Carved_Tenmoku_Bowl/1-thumb.jpg
 gallery:
   - url: /assets/images/Large_Carved_Tenmoku_Bowl/1.jpg
     image_path: /assets/images/Large_Carved_Tenmoku_Bowl/1.jpg

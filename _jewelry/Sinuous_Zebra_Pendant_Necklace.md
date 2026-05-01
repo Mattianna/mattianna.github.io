@@ -7,7 +7,7 @@ necklace: true
 sortkey: 300
 header:
   image: /assets/images/Sinuous_Zebra_Pendant_Necklace/1.jpg
-  teaser: /assets/images/Sinuous_Zebra_Pendant_Necklace/1.jpg
+  teaser: /assets/images/Sinuous_Zebra_Pendant_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Sinuous_Zebra_Pendant_Necklace/1.jpg
     image_path: /assets/images/Sinuous_Zebra_Pendant_Necklace/1.jpg

@@ -7,7 +7,7 @@ earring: true
 sortkey: 80
 header:
   image: /assets/images/Turquoise_Silver_Earrings/1.jpg
-  teaser: /assets/images/Turquoise_Silver_Earrings/1.jpg
+  teaser: /assets/images/Turquoise_Silver_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/Turquoise_Silver_Earrings/1.jpg
     image_path: /assets/images/Turquoise_Silver_Earrings/1.jpg

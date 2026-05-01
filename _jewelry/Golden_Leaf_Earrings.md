@@ -6,7 +6,7 @@ earring: true
 sortkey: 150
 header:
   image: /assets/images/Golden_Leaf_Earrings/1.jpg
-  teaser: /assets/images/Golden_Leaf_Earrings/1.jpg
+  teaser: /assets/images/Golden_Leaf_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/Golden_Leaf_Earrings/1.jpg
     image_path: /assets/images/Golden_Leaf_Earrings/1.jpg

@@ -7,7 +7,7 @@ necklace: true
 sortkey: 90
 header:
   image: /assets/images/Stainless_Steel_Pearl_Necklace/1.jpg
-  teaser: /assets/images/Stainless_Steel_Pearl_Necklace/1.jpg
+  teaser: /assets/images/Stainless_Steel_Pearl_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Stainless_Steel_Pearl_Necklace/1.jpg
     image_path: /assets/images/Stainless_Steel_Pearl_Necklace/1.jpg

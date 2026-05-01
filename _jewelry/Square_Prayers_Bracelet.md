@@ -6,7 +6,7 @@ price: 45
 sortkey: 450
 header:
   image: /assets/images/Square_Prayers_Bracelet/1.jpg
-  teaser: /assets/images/Square_Prayers_Bracelet/1.jpg
+  teaser: /assets/images/Square_Prayers_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Square_Prayers_Bracelet/1.jpg
     image_path: /assets/images/Square_Prayers_Bracelet/1.jpg

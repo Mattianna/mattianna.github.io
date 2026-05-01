@@ -6,7 +6,7 @@ available: false
 sortkey: 160
 header:
   image: /assets/images/Large_Porcelain_White_Bowl/1-1.jpg
-  teaser: /assets/images/Large_Porcelain_White_Bowl/1-1.jpg
+  teaser: /assets/images/Large_Porcelain_White_Bowl/1-thumb.jpg
 gallery:
   - url: /assets/images/Large_Porcelain_White_Bowl/1-1.jpg
     image_path: /assets/images/Large_Porcelain_White_Bowl/1-1.jpg

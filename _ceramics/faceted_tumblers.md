@@ -6,7 +6,7 @@ available: true
 sortkey: 40
 header:
   image: /assets/images/Faceted_Tumblers/Set.jpg
-  teaser: /assets/images/Faceted_Tumblers/Set.jpg
+  teaser: /assets/images/Faceted_Tumblers/1-thumb.jpg
 gallery:
   - url: /assets/images/Faceted_Tumblers/Set.jpg
     image_path: /assets/images/Faceted_Tumblers/Set.jpg

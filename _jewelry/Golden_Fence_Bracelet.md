@@ -6,7 +6,7 @@ price: 55
 sortkey: 110
 header:
   image: /assets/images/Golden_Fence_Bracelet/1.jpg
-  teaser: /assets/images/Golden_Fence_Bracelet/1.jpg
+  teaser: /assets/images/Golden_Fence_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Golden_Fence_Bracelet/1.jpg
     image_path: /assets/images/Golden_Fence_Bracelet/1.jpg

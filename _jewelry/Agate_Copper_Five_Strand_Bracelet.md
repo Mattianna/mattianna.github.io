@@ -6,7 +6,7 @@ price: 65
 sortkey: 340
 header:
   image: /assets/images/Agate_Copper_Five_Strand_Bracelet/2.jpg
-  teaser: /assets/images/Agate_Copper_Five_Strand_Bracelet/2.jpg
+  teaser: /assets/images/Agate_Copper_Five_Strand_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Agate_Copper_Five_Strand_Bracelet/2.jpg
     image_path: /assets/images/Agate_Copper_Five_Strand_Bracelet/2.jpg

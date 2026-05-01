@@ -6,7 +6,7 @@ necklace: true
 sortkey: 120
 header:
   image: /assets/images/Coin_Agate_Jumble_Necklace/1.jpg
-  teaser: /assets/images/Coin_Agate_Jumble_Necklace/1.jpg
+  teaser: /assets/images/Coin_Agate_Jumble_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Coin_Agate_Jumble_Necklace/1.jpg
     image_path: /assets/images/Coin_Agate_Jumble_Necklace/1.jpg

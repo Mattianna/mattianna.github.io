@@ -7,7 +7,7 @@ available: true
 foodsafe: false
 header:
   image: /assets/images/Soda_Fired_Cairn/1.jpg
-  teaser: /assets/images/Soda_Fired_Cairn/1.jpg
+  teaser: /assets/images/Soda_Fired_Cairn/1-thumb.jpg
 gallery:
   - url: /assets/images/Soda_Fired_Cairn/1.jpg
     image_path: /assets/images/Soda_Fired_Cairn/1.jpg

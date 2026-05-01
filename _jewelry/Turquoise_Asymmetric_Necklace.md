@@ -7,7 +7,7 @@ necklace: true
 sortkey: 70
 header:
   image: /assets/images/Turquoise_Asymmetric_Necklace/1.jpg
-  teaser: /assets/images/Turquoise_Asymmetric_Necklace/1.jpg
+  teaser: /assets/images/Turquoise_Asymmetric_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Turquoise_Asymmetric_Necklace/1.jpg
     image_path: /assets/images/Turquoise_Asymmetric_Necklace/1.jpg

@@ -7,7 +7,7 @@ necklace: true
 sortkey: 470
 header:
   image: /assets/images/Red_White_&_Chocolate_Necklace/1.jpg
-  teaser: /assets/images/Red_White_&_Chocolate_Necklace/1.jpg
+  teaser: /assets/images/Red_White_&_Chocolate_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Red_White_&_Chocolate_Necklace/1.jpg
     image_path: /assets/images/Red_White_&_Chocolate_Necklace/1.jpg

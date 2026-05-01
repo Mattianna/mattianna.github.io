@@ -6,7 +6,7 @@ available: true
 sortkey: 180
 header:
   image: /assets/images/Nested_Bowl_Set-eggshell/1.jpg
-  teaser: /assets/images/Nested_Bowl_Set-eggshell/1.jpg
+  teaser: /assets/images/Nested_Bowl_Set-eggshell/1-thumb.jpg
 gallery:
   - url: /assets/images/Nested_Bowl_Set-eggshell/1.jpg
     image_path: /assets/images/Nested_Bowl_Set-eggshell/1.jpg

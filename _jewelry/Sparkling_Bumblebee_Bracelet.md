@@ -6,7 +6,7 @@ price: 45
 sortkey: 540
 header:
   image: /assets/images/Sparkling_Bumblee_Bracelet/1.jpg
-  teaser: /assets/images/Sparkling_Bumblee_Bracelet/1.jpg
+  teaser: /assets/images/Sparkling_Bumblee_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Sparkling_Bumblee_Bracelet/1.jpg
     image_path: /assets/images/Sparkling_Bumblee_Bracelet/1.jpg

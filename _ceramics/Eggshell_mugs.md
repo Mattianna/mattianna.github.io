@@ -6,7 +6,7 @@ available: true
 sortkey: 100
 header:
   image: /assets/images/Eggshell_mugs/pair.jpg
-  teaser: /assets/images/Eggshell_mugs/pair.jpg
+  teaser: /assets/images/Eggshell_mugs/1-thumb.jpg
 gallery:
   - url: /assets/images/Eggshell_mugs/pair.jpg
     image_path: /assets/images/Eggshell_mugs/pair.jpg

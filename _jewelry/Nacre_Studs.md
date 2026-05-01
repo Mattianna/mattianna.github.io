@@ -7,7 +7,7 @@ earring: true
 sortkey: 420
 header:
   image: /assets/images/Nacre_Stud_Earrings/1.jpg
-  teaser: /assets/images/Nacre_Stud_Earrings/1.jpg
+  teaser: /assets/images/Nacre_Stud_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/Nacre_Stud_Earrings/1.jpg
     image_path: /assets/images/Nacre_Stud_Earrings/1.jpg

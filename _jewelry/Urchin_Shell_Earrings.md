@@ -7,7 +7,7 @@ earring: true
 sortkey: 160
 header:
   image: /assets/images/Urchin_Shell_Earrings/1.jpg
-  teaser: /assets/images/Urchin_Shell_Earrings/1.jpg
+  teaser: /assets/images/Urchin_Shell_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/Urchin_Shell_Earrings/1.jpg
     image_path: /assets/images/Urchin_Shell_Earrings/1.jpg

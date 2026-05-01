@@ -7,7 +7,7 @@ earring: true
 sortkey: 280
 header:
   image: /assets/images/Silver_Leaf_Earrings/1.jpg
-  teaser: /assets/images/Silver_Leaf_Earrings/1.jpg
+  teaser: /assets/images/Silver_Leaf_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/Silver_Leaf_Earrings/1.jpg
     image_path: /assets/images/Silver_Leaf_Earrings/1.jpg

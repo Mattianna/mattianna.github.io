@@ -7,7 +7,7 @@ necklace: true
 sortkey: 600
 header:
   image: /assets/images/Electric_Vertebrae_Necklace/1.jpg
-  teaser: /assets/images/Electric_Vertebrae_Necklace/1.jpg
+  teaser: /assets/images/Electric_Vertebrae_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Electric_Vertebrae_Necklace/1.jpg
     image_path: /assets/images/Electric_Vertebrae_Necklace/1.jpg

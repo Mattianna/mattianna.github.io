@@ -7,7 +7,7 @@ necklace: true
 sortkey: 330
 header:
   image: /assets/images/Black_Copper_Multistrand_Necklace/1.jpg
-  teaser: /assets/images/Black_Copper_Multistrand_Necklace/1.jpg
+  teaser: /assets/images/Black_Copper_Multistrand_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Black_Copper_Multistrand_Necklace/1.jpg
     image_path: /assets/images/Black_Copper_Multistrand_Necklace/1.jpg

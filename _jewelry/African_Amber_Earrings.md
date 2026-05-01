@@ -7,7 +7,7 @@ earring: true
 sortkey: 5
 header:
   image: /assets/images/African_Amber_Earrings/1.jpg
-  teaser: /assets/images/African_Amber_Earrings/1.jpg
+  teaser: /assets/images/African_Amber_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/African_Amber_Earrings/1.jpg
     image_path: /assets/images/African_Amber_Earrings/1.jpg

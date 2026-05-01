@@ -6,7 +6,7 @@ price: 80
 sortkey: 350
 header:
   image: /assets/images/Agate_Black_Sand_Bracelet/1.jpg
-  teaser: /assets/images/Agate_Black_Sand_Bracelet/1.jpg
+  teaser: /assets/images/Agate_Black_Sand_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Agate_Black_Sand_Bracelet/1.jpg
     image_path: /assets/images/Agate_Black_Sand_Bracelet/1.jpg

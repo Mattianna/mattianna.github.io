@@ -6,7 +6,7 @@ available: true
 sortkey: 30
 header:
   image: /assets/images/Faceted_Tenmoku_Tea_Bowl/1-1.jpg
-  teaser: /assets/images/Faceted_Tenmoku_Tea_Bowl/1-1.jpg
+  teaser: /assets/images/Faceted_Tenmoku_Tea_Bowl/1-thumb.jpg
 gallery:
   - url: /assets/images/Faceted_Tenmoku_Tea_Bowl/1-1.jpg
     image_path: /assets/images/Faceted_Tenmoku_Tea_Bowl/1-1.jpg

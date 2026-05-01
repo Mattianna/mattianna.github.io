@@ -7,7 +7,7 @@ necklace: true
 sortkey: 530
 header:
   image: /assets/images/Sparkling_Bumblebee_Pendant_Necklace/1.jpg
-  teaser: /assets/images/Sparkling_Bumblebee_Pendant_Necklace/1.jpg
+  teaser: /assets/images/Sparkling_Bumblebee_Pendant_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Sparkling_Bumblebee_Pendant_Necklace/1.jpg
     image_path: /assets/images/Sparkling_Bumblebee_Pendant_Necklace/1.jpg

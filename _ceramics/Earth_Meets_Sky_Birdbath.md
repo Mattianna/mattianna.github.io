@@ -7,7 +7,7 @@ available: false
 foodsafe: false
 header:
   image: /assets/images/Birdbath/4.jpg
-  teaser: /assets/images/Birdbath/4.jpg
+  teaser: /assets/images/Birdbath/1-thumb.jpg
 gallery:
   - url: /assets/images/Birdbath/5.jpg
     image_path: /assets/images/Birdbath/5.jpg

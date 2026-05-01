@@ -7,7 +7,7 @@ necklace: true
 sortkey: 410
 header:
   image: /assets/images/Seaglass_Nacre_Long_Multistrand_Necklace/1.jpg
-  teaser: /assets/images/Seaglass_Nacre_Long_Multistrand_Necklace/1.jpg
+  teaser: /assets/images/Seaglass_Nacre_Long_Multistrand_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Seaglass_Nacre_Long_Multistrand_Necklace/1.jpg
     image_path: /assets/images/Seaglass_Nacre_Long_Multistrand_Necklace/1.jpg

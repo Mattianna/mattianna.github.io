@@ -7,7 +7,7 @@ necklace: true
 sortkey: 40
 header:
   image: /assets/images/Harvest_Silver_Strand/1.jpg
-  teaser: /assets/images/Harvest_Silver_Strand/1.jpg
+  teaser: /assets/images/Harvest_Silver_Strand/1-thumb.jpg
 gallery:
   - url: /assets/images/Harvest_Silver_Strand/1.jpg
     image_path: /assets/images/Harvest_Silver_Strand/1.jpg

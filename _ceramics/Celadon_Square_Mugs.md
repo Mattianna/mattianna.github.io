@@ -6,7 +6,7 @@ available: false
 sortkey: 90
 header:
   image: /assets/images/Celadon_Square_Mugs/set4.jpg
-  teaser: /assets/images/Celadon_Square_Mugs/set4.jpg
+  teaser: /assets/images/Celadon_Square_Mugs/1-thumb.jpg
 gallery:
   - url: /assets/images/Celadon_Square_Mugs/set4.jpg
     image_path: /assets/images/Celadon_Square_Mugs/set4.jpg

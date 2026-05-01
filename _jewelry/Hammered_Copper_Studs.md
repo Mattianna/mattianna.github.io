@@ -7,7 +7,7 @@ earring: true
 sortkey: 370
 header:
   image: /assets/images/Hammered_Copper_Studs/1.jpg
-  teaser: /assets/images/Hammered_Copper_Studs/1.jpg
+  teaser: /assets/images/Hammered_Copper_Studs/1-thumb.jpg
 gallery:
   - url: /assets/images/Hammered_Copper_Studs/1.jpg
     image_path: /assets/images/Hammered_Copper_Studs/1.jpg

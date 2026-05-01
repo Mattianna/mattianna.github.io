@@ -6,7 +6,7 @@ sortkey: 120
 available: true
 header:
   image: /assets/images/Blue_Reef_Lamp/1.jpg
-  teaser: /assets/images/Blue_Reef_Lamp/1.jpg
+  teaser: /assets/images/Blue_Reef_Lamp/1-thumb.jpg
 gallery:
   - url: /assets/images/Blue_Reef_Lamp/1.jpg
     image_path: /assets/images/Blue_Reef_Lamp/1.jpg

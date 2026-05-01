@@ -6,7 +6,7 @@ price: 45
 sortkey: 610
 header:
   image: /assets/images/Green_Blue_Brass_Sun_Bracelet/1.jpg
-  teaser: /assets/images/Green_Blue_Brass_Sun_Bracelet/1.jpg
+  teaser: /assets/images/Green_Blue_Brass_Sun_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Green_Blue_Brass_Sun_Bracelet/1.jpg
     image_path: /assets/images/Green_Blue_Brass_Sun_Bracelet/1.jpg

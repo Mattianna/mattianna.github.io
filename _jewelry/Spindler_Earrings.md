@@ -7,7 +7,7 @@ earring: true
 sortkey: 440
 header:
   image: /assets/images/Spindler_Earrings/1.jpg
-  teaser: /assets/images/Spindler_Earrings/1.jpg
+  teaser: /assets/images/Spindler_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/Spindler_Earrings/1.jpg
     image_path: /assets/images/Spindler_Earrings/1.jpg

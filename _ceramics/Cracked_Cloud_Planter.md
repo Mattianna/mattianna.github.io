@@ -6,7 +6,7 @@ available: true
 sortkey: 230
 header:
   image: /assets/images/Cracked_Cloud_Planter/1.jpg
-  teaser: /assets/images/Cracked_Cloud_Planter/1.jpg
+  teaser: /assets/images/Cracked_Cloud_Planter/1-thumb.jpg
 gallery:
   - url: /assets/images/Cracked_Cloud_Planter/1.jpg
     image_path: /assets/images/Cracked_Cloud_Planter/1.jpg

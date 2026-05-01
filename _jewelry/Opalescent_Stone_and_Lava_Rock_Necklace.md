@@ -7,7 +7,7 @@ necklace: true
 sortkey: 400
 header:
   image: /assets/images/Opalescent_Stone_&_Lava_Rock_Necklace/1.jpg
-  teaser: /assets/images/Opalescent_Stone_&_Lava_Rock_Necklace/1.jpg
+  teaser: /assets/images/Opalescent_Stone_&_Lava_Rock_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Opalescent_Stone_&_Lava_Rock_Necklace/1.jpg
     image_path: /assets/images/Opalescent_Stone_&_Lava_Rock_Necklace/1.jpg

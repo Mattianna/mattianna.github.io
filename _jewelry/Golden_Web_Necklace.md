@@ -7,7 +7,7 @@ necklace: true
 sortkey: 100
 header:
   image: /assets/images/Golden_Web_Necklace/1.jpg
-  teaser: /assets/images/Golden_Web_Necklace/1.jpg
+  teaser: /assets/images/Golden_Web_Necklace/1-thumb.jpg
 gallery:
   - url: /assets/images/Golden_Web_Necklace/1.jpg
     image_path: /assets/images/Golden_Web_Necklace/1.jpg

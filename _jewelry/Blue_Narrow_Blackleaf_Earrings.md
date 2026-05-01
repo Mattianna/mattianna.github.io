@@ -7,7 +7,7 @@ earring: true
 sortkey: 220
 header:
   image: /assets/images/Blue_Narrow_Blackleaf_Earrings/1.jpg
-  teaser: /assets/images/Blue_Narrow_Blackleaf_Earrings/1.jpg
+  teaser: /assets/images/Blue_Narrow_Blackleaf_Earrings/1-thumb.jpg
 gallery:
   - url: /assets/images/Blue_Narrow_Blackleaf_Earrings/1.jpg
     image_path: /assets/images/Blue_Narrow_Blackleaf_Earrings/1.jpg

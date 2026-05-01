@@ -6,7 +6,7 @@ price: 45
 sortkey: 550
 header:
   image: /assets/images/Morticia_Bracelet/1.jpg
-  teaser: /assets/images/Morticia_Bracelet/1.jpg
+  teaser: /assets/images/Morticia_Bracelet/1-thumb.jpg
 gallery:
   - url: /assets/images/Morticia_Bracelet/1.jpg
     image_path: /assets/images/Morticia_Bracelet/1.jpg
