@@ -6,14 +6,14 @@ price: 180
 necklace: true
 sortkey: 8
 header:
-  image: /assets/images/Chestnut_and_Pearl_Necklace/1.jpg
-  teaser: /assets/images/Chestnut_and_Pearl_Necklace/1.jpg
+  image: /assets/images/Silver_and_Stone_Square_Necklace/1.jpg
+  teaser: /assets/images/Silver_and_Stone_Square_Necklace/1.jpg
 gallery:
-  - url: /assets/images/Chestnut_and_Pearl_Necklace/1.jpg
-    image_path: /assets/images/Chestnut_and_Pearl_Necklace/1.jpg
+  - url: /assets/images/Silver_and_Stone_Square_Necklace/1.jpg
+    image_path: /assets/images/Silver_and_Stone_Square_Necklace/1.jpg
     alt: "First picture of Necklace"
-  - url: /assets/images/Chestnut_and_Pearl_Necklace/2.jpg
-    image_path: /assets/images/Chestnut_and_Pearl_Necklace/2.jpg
+  - url: /assets/images/Silver_and_Stone_Square_Necklace/2.jpg
+    image_path: /assets/images/Silver_and_Stone_Square_Necklace/2.jpg
     alt: "Second picture of Necklace"
 ---
 
