@@ -2,6 +2,7 @@
 title: "Sparkling Bumblebee Bracelet"
 dimensions: 'Length: 7"'
 available: true
+price: 45
 sortkey: 540
 header:
   image: /assets/images/Sparkling_Bumblee_Bracelet/1.jpg

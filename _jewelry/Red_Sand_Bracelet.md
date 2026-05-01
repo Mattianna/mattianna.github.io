@@ -2,6 +2,7 @@
 title: "Red Sand Bracelet"
 dimensions: 'Length: 7.5"'
 available: true
+price: 45
 sortkey: 360
 header:
   image: /assets/images/Red_Sand_Bracelet/1.jpg

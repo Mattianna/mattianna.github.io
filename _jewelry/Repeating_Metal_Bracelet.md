@@ -2,6 +2,7 @@
 title: "Repeating Metal Bracelet"
 dimensions: 'Length: 8"'
 available: true
+price: 65
 sortkey: 380
 header:
   image: /assets/images/Repeating_Metal_Bracelet/1.jpg

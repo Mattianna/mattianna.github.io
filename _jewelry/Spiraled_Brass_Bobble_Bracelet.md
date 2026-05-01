@@ -2,6 +2,7 @@
 title: "Spiraled Brass Bobble Bracelet"
 dimensions: 'Length: 8"'
 available: true
+price: 45
 sortkey: 510
 header:
   image: /assets/images/Spiraled_Brass_Bobble_Bracelet/1.jpg

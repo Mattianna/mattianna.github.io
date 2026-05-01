@@ -2,6 +2,7 @@
 title: "Morticia Bracelet"
 dimensions: 'Length: 7.5"'
 available: true
+price: 45
 sortkey: 550
 header:
   image: /assets/images/Morticia_Bracelet/1.jpg

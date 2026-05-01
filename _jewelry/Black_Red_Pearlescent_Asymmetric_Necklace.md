@@ -2,6 +2,7 @@
 title: "Black, Red, and Pearlescent Asymmetric Necklace"
 dimensions: 'Neck opening: 17" <br/>Drop: 8" <br/>Width: 9"'
 available: true
+price: 210
 necklace: true
 sortkey: 20
 header:

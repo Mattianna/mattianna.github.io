@@ -2,6 +2,7 @@
 title: "Brass Meets Sea Multi-strand Necklace"
 dimensions: 'Neck opening: 20.5" <br/>Drop: 6.5" <br/>Width: 6"'
 available: true
+price: 125
 necklace: true
 sortkey: 240
 header:

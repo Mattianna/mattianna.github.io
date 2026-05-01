@@ -2,6 +2,7 @@
 title: "Hammered Copper Studs"
 dimensions: 'Length: 3" <br/>Weight: 3g'
 available: true
+price: 65
 earring: true
 sortkey: 370
 header:

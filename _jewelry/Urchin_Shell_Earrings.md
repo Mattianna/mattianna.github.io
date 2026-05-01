@@ -2,6 +2,7 @@
 title: "Urchin Shell Earrings"
 dimensions: 'Length: 3" <br/>Weight: 1.5g'
 available: true
+price: 65
 earring: true
 sortkey: 160
 header:

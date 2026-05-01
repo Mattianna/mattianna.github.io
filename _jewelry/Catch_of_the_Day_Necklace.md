@@ -2,6 +2,7 @@
 title: "Catch of the Day Necklace"
 dimensions: 'Neck opening: 17.5" <br/>Drop: 2.5" <br/>Width: 9"'
 available: true
+price: 110
 necklace: true
 sortkey: 460
 header:

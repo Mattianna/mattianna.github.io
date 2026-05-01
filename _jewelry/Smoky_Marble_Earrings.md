@@ -2,6 +2,7 @@
 title: "Smokey Marble Earrings"
 dimensions: 'Length: 1.5" <br/>Weight: 4g'
 available: true
+price: 45
 earring: true
 sortkey: 30
 header:

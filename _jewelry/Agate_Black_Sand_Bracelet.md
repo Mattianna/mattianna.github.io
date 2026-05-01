@@ -2,6 +2,7 @@
 title: "Agate & Black Sand Jumble Bracelet"
 dimensions: 'Length: 8.5"'
 available: true
+price: 80
 sortkey: 350
 header:
   image: /assets/images/Agate_Black_Sand_Bracelet/1.jpg

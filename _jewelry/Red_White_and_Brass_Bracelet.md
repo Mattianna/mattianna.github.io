@@ -2,6 +2,7 @@
 title: "Red White & Brass Bracelet"
 dimensions: 'Length: 8"'
 available: true
+price: 55
 sortkey: 500
 header:
   image: /assets/images/Red_White_&_Brass_Bracelet/1.jpg

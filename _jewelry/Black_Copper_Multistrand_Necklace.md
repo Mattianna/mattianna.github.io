@@ -2,6 +2,7 @@
 title: "Black & Copper Multi-strand Necklace"
 dimensions: 'Neck opening: 27.5" <br/> Drop: 8" <br/> Width: 6.5"'
 available: true
+price: 110
 necklace: true
 sortkey: 330
 header:

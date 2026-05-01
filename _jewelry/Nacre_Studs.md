@@ -2,6 +2,7 @@
 title: "Nacre Studs"
 dimensions: 'Length: 2" <br/>Weight: 3.5g'
 available: true
+price: 65
 earring: true
 sortkey: 420
 header:

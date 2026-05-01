@@ -2,6 +2,7 @@
 title: "Faceted Wooden Studs"
 dimensions: 'Length: 2" <br/> Weight: 4g'
 available: true
+price: 65
 earring: true
 sortkey: 60
 header:

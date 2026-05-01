@@ -2,6 +2,7 @@
 title: "Sinuous Zebra Pendant Necklace"
 dimensions: 'Neck opening: 26" <br/>Drop: 7.5" <br/>Width: 6.5"'
 available: true
+price: 125
 necklace: true
 sortkey: 300
 header:

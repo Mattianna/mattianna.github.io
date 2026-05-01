@@ -2,6 +2,7 @@
 title: "Green Blackleaf Earrings"
 dimensions: 'Length: 2" <br/>Weight: 9.5g'
 available: true
+price: 65
 earring: true
 sortkey: 180
 header:

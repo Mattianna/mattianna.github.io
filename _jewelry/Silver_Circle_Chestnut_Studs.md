@@ -2,6 +2,7 @@
 title: "Silver Circle Chestnut Studs"
 dimensions: 'Length: 3" <br/>Weight: 6g'
 available: true
+price: 75
 earring: true
 sortkey: 130
 header:

@@ -2,6 +2,7 @@
 title: "Harvest Silver Strand"
 dimensions: 'Neck opening: 33" <br/>Drop: 9.5" <br/>Width: 5"'
 available: true
+price: 55
 necklace: true
 sortkey: 40
 header:

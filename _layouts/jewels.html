@@ -12,7 +12,11 @@ layout: default
     <tr>
       <th>Available</th>
       {% if page.available %}
-      <td>Yes!  <a href="../../contact">Contact me</a> if interested.</td>
+      <td>Yes!  <a href="../../contact">Contact me</a> if interested.
+        {% if page.price %}
+        <br>Price: ${{page.price}}
+        {% endif %}
+      </td>
       {% else %}
       <td>No: in private collection.</td>
       {% endif %}

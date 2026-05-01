@@ -2,6 +2,7 @@
 title: "Turquoise Faceted Wood Necklace"
 dimensions: 'Neck opening: 32" <br/>Drop: 10.5" <br/>Width: 6.5"'
 available: true
+price: 175
 necklace: true
 sortkey: 50
 header:

@@ -2,8 +2,9 @@
 title: "Asymmetric Stone Earrings"
 dimensions: 'Length: 2" <br/>Weight: 7.5g'
 available: true
+price: 55
 earring: true
-sortkey: 590
+sortkey: 490
 header:
   image: /assets/images/Asymmetric_Stone_Earrings/1.jpg
   teaser: /assets/images/Asymmetric_Stone_Earrings/1.jpg

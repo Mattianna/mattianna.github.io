@@ -2,6 +2,7 @@
 title: "Teal Seed Bead Jumble Multi-strand Necklace"
 dimensions: 'Neck opening: 25" <br/>Drop: 8.25" <br/>Width: 7"'
 available: true
+price: 90
 necklace: true
 sortkey: 480
 header:

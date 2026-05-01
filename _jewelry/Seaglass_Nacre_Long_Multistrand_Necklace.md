@@ -2,6 +2,7 @@
 title: "Seaglass Nacre Long Multi-strand Necklace"
 dimensions: 'Neck opening: 28" <br/>Drop: 12.5" <br/>Width: 5.5"'
 available: true
+price: 175
 necklace: true
 sortkey: 410
 header:

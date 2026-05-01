@@ -2,6 +2,7 @@
 title: "Silver Leaf Earrings"
 dimensions: 'Length: 2.6" <br/>Weight: 8g'
 available: true
+price: 75
 earring: true
 sortkey: 280
 header:

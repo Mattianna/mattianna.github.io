@@ -2,6 +2,7 @@
 title: "Electric Vertebrae Necklace"
 dimensions: 'Neck opening: 23" <br/>Drop: 5" <br/>Width: 4.75"'
 available: true
+price: 85
 necklace: true
 sortkey: 600
 header:

@@ -2,6 +2,7 @@
 title: "Turquoise Silver Earrings"
 dimensions: 'Length: 2" <br/>Weight: 10g'
 available: true
+price: 65
 earring: true
 sortkey: 80
 header:

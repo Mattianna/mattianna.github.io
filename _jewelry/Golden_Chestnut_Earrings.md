@@ -2,6 +2,7 @@
 title: "Golden Chestnut Earrings"
 dimensions: 'Length: 2.6" <br/>Weight: 5.5g'
 available: true
+price: 65
 earring: true
 sortkey: 140
 header:

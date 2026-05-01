@@ -1,7 +1,8 @@
 ---
 title: "Golden Web Necklace"
 dimensions: 'Neck opening: 17" <br/>Drop: 8" <br/>Width: 9"'
-available: false
+available: true
+price: 275
 necklace: true
 sortkey: 100
 header:

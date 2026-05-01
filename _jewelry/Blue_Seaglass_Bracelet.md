@@ -2,6 +2,7 @@
 title: "Blue Seaglass Bracelet"
 dimensions: 'Length: 8"'
 available: true
+price: 40
 sortkey: 230
 header:
   image: /assets/images/Blue_Seaglass_Bracelet/1.jpg

@@ -2,6 +2,7 @@
 title: "Silver Squares & Blue Lightning Bracelet"
 dimensions: 'Length: 7.25"'
 available: true
+price: 45
 sortkey: 570
 header:
   image: /assets/images/Silver_Square_Blue_Lightning_Bracelet/1.jpg

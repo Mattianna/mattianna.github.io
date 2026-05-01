@@ -2,6 +2,7 @@
 title: "Ruff Rock Earrings"
 dimensions: 'Length: 1.7" <br/>Weight: 4g'
 available: true
+price: 55
 earring: true
 sortkey: 430
 header:

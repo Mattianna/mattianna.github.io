@@ -2,6 +2,7 @@
 title: "Brown Seaglass Jumble Bracelet"
 dimensions: 'Length: 8"'
 available: true
+price: 45
 sortkey: 210
 header:
   image: /assets/images/Brown_Seaglass_Jumble_Bracelet/1.jpg

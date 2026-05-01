@@ -2,6 +2,7 @@
 title: "Batik Blue Earrings"
 dimensions: 'Length: 2.5" <br/>Weight: 3.5g'
 available: true
+price: 55
 earring: true
 sortkey: 290
 header:

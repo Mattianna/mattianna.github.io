@@ -1,7 +1,7 @@
 ---
 title: "Black & Silver Multi-strand Necklace"
 dimensions: 'Neck opening: 24" <br/>Drop: 5" <br/>Width: 6"'
-available: true
+available: false
 necklace: true
 sortkey: 310
 header:

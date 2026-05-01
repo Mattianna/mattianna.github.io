@@ -2,6 +2,7 @@
 title: "Turquoise Asymmetric Necklace"
 dimensions: 'Neck opening: 22" <br/>Drop: 7" <br/>Width: 7"'
 available: true
+price: 300
 necklace: true
 sortkey: 70
 header:

@@ -2,8 +2,9 @@
 title: "Black Red Silver Asymmetric Necklace"
 dimensions: 'Neck opening: 22.5" <br/>Drop: 7" <br/>Width: 7.5"'
 available: true
+Price: 125
 necklace: true
-sortkey: 10
+sortkey: 19
 header:
   image: /assets/images/Black_Red_Silver_Asymmetric_Necklace/1.jpg
   teaser: /assets/images/Black_Red_Silver_Asymmetric_Necklace/1.jpg

@@ -1,7 +1,7 @@
 ---
 title: "Coin and Agate Jumble Necklace"
 dimensions: 'Neck opening: 20.5" <br/>Drop: 3" <br/>Width: 6"'
-available: true
+available: false
 necklace: true
 sortkey: 120
 header:

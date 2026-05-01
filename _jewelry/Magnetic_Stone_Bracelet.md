@@ -2,6 +2,7 @@
 title: "Magnetic Stone Bracelet"
 dimensions: 'Length: 7.5"'
 available: true
+price: 45
 sortkey: 580
 header:
   image: /assets/images/Magnetic_Stone_Bracelet/1.jpg

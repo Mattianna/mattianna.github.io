@@ -2,6 +2,7 @@
 title: "Green Gold & Cream Multi-strand Necklace"
 dimensions: 'Neck opening: 18.5-20.75" <br/>Drop: 4.5" <br/>Width: 5.5"'
 available: true
+price: 110
 necklace: true
 sortkey: 260
 header:
